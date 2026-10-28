@@ -107,9 +107,9 @@ Atlas Free ki capacity limited hai aur idle clusters pause ho sakte hain. Yeh ro
 
 Official up-to-date free plan details: https://render.com/docs/free
 
-## Vercel/Netlify ka option
+## Vercel ka option
 
-React frontend alag host karna possible hai, lekin is pack ka Express server phir bhi alag backend host maangta hai. Current single-service build ke liye Render route straightforward hai. Sirf `client/dist` upload karke complete MERN app live nahin hoti.
+Har app mein ab `api/index.js` aur `vercel.json` adapter bhi hai. Is se React frontend aur existing Express API ek Vercel project mein host ho sakte hain; data MongoDB mein hi save hota hai. Paanchon projects ke root directories, private environment settings aur database network requirements ke liye `VERCEL-DEPLOYMENT.md` follow karein. Sirf `client/dist` upload karne se complete MERN backend live nahin hota.
 
 ## Live link share karne se pehle
 
