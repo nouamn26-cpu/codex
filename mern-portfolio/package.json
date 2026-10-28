@@ -1,0 +1,20 @@
+{
+  "name": "mern-portfolio-pack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Five independent MERN portfolio applications and build prompts",
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "install:all": "node scripts/run-all.mjs install",
+    "build:all": "node scripts/run-all.mjs build",
+    "test": "node scripts/run-all.mjs test",
+    "dev:shop": "npm --prefix 01-shopflow run dev",
+    "dev:booking": "npm --prefix 02-bookease run dev",
+    "dev:crm": "npm --prefix 03-clientdesk run dev",
+    "dev:support": "npm --prefix 04-supportpilot run dev",
+    "dev:marketplace": "npm --prefix 05-servicehub run dev"
+  }
+}

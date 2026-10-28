@@ -1,0 +1,112 @@
+# Five independent MERN portfolio demos. No paid compute is declared.
+services:
+- type: web
+  name: shopflow-nouamn-portfolio
+  runtime: node
+  plan: free
+  rootDir: mern-portfolio/01-shopflow
+  buildCommand: npm ci --include=dev && npm run build
+  startCommand: npm start
+  healthCheckPath: /api/health
+  envVars:
+  - key: NODE_VERSION
+    value: '24'
+  - key: NODE_ENV
+    value: production
+  - key: JWT_SECRET
+    generateValue: true
+  - key: MONGODB_URI
+    sync: false
+  - key: SEED_DEMO
+    value: 'true'
+  branch: portfolio-live
+  region: singapore
+  autoDeployTrigger: 'off'
+- type: web
+  name: bookease-nouamn-portfolio
+  runtime: node
+  plan: free
+  buildCommand: npm ci --include=dev && npm run build
+  startCommand: npm start
+  healthCheckPath: /api/health
+  envVars:
+  - key: NODE_VERSION
+    value: '24'
+  - key: NODE_ENV
+    value: production
+  - key: JWT_SECRET
+    generateValue: true
+  - key: MONGODB_URI
+    sync: false
+  - key: SEED_DEMO
+    value: 'true'
+  rootDir: mern-portfolio/02-bookease
+  branch: portfolio-live
+  region: singapore
+  autoDeployTrigger: 'off'
+- type: web
+  name: clientdesk-nouamn-portfolio
+  runtime: node
+  plan: free
+  buildCommand: npm ci --include=dev && npm run build
+  startCommand: npm start
+  healthCheckPath: /api/health
+  envVars:
+  - key: NODE_VERSION
+    value: '24'
+  - key: NODE_ENV
+    value: production
+  - key: JWT_SECRET
+    generateValue: true
+  - key: MONGODB_URI
+    sync: false
+  - key: SEED_DEMO
+    value: 'true'
+  rootDir: mern-portfolio/03-clientdesk
+  branch: portfolio-live
+  region: singapore
+  autoDeployTrigger: 'off'
+- type: web
+  name: supportpilot-nouamn-portfolio
+  runtime: node
+  plan: free
+  buildCommand: npm ci --include=dev && npm run build
+  startCommand: npm start
+  healthCheckPath: /api/health
+  envVars:
+  - key: NODE_VERSION
+    value: '24'
+  - key: NODE_ENV
+    value: production
+  - key: JWT_SECRET
+    generateValue: true
+  - key: MONGODB_URI
+    sync: false
+  - key: SEED_DEMO
+    value: 'true'
+  rootDir: mern-portfolio/04-supportpilot
+  branch: portfolio-live
+  region: singapore
+  autoDeployTrigger: 'off'
+- type: web
+  name: servicehub-nouamn-portfolio
+  runtime: node
+  plan: free
+  buildCommand: npm ci --include=dev && npm run build
+  startCommand: npm start
+  healthCheckPath: /api/health
+  envVars:
+  - key: NODE_VERSION
+    value: '24'
+  - key: NODE_ENV
+    value: production
+  - key: JWT_SECRET
+    generateValue: true
+  - key: MONGODB_URI
+    sync: false
+  - key: SEED_DEMO
+    value: 'true'
+  rootDir: mern-portfolio/05-servicehub
+  branch: portfolio-live
+  region: singapore
+  autoDeployTrigger: 'off'

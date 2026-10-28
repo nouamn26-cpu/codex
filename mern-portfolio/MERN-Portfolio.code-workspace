@@ -1,0 +1,86 @@
+{
+  "folders": [
+    {
+      "name": "ShopFlow",
+      "path": "01-shopflow",
+    },
+    {
+      "name": "BookEase",
+      "path": "02-bookease",
+    },
+    {
+      "name": "ClientDesk",
+      "path": "03-clientdesk",
+    },
+    {
+      "name": "SupportPilot",
+      "path": "04-supportpilot",
+    },
+    {
+      "name": "ServiceHub",
+      "path": "05-servicehub",
+    },
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.data": true,
+      "**/client/dist": true,
+    },
+  },
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Start ShopFlow",
+        "type": "shell",
+        "command": "npm run dev",
+        "options": {
+          "cwd": "${workspaceFolder:ShopFlow}",
+        },
+        "isBackground": true,
+        "problemMatcher": [],
+      },
+      {
+        "label": "Start BookEase",
+        "type": "shell",
+        "command": "npm run dev",
+        "options": {
+          "cwd": "${workspaceFolder:BookEase}",
+        },
+        "isBackground": true,
+        "problemMatcher": [],
+      },
+      {
+        "label": "Start ClientDesk",
+        "type": "shell",
+        "command": "npm run dev",
+        "options": {
+          "cwd": "${workspaceFolder:ClientDesk}",
+        },
+        "isBackground": true,
+        "problemMatcher": [],
+      },
+      {
+        "label": "Start SupportPilot",
+        "type": "shell",
+        "command": "npm run dev",
+        "options": {
+          "cwd": "${workspaceFolder:SupportPilot}",
+        },
+        "isBackground": true,
+        "problemMatcher": [],
+      },
+      {
+        "label": "Start ServiceHub",
+        "type": "shell",
+        "command": "npm run dev",
+        "options": {
+          "cwd": "${workspaceFolder:ServiceHub}",
+        },
+        "isBackground": true,
+        "problemMatcher": [],
+      },
+    ],
+  },
+}
