@@ -1,0 +1,34 @@
+
+:root { --focus: #176b60; }
+html { scroll-behavior: smooth; }
+button, a, input, textarea, select { touch-action: manipulation; }
+button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+p { text-wrap: pretty; }
+img { max-width: 100%; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation: none !important; transition: none !important; } }
+/* Warm white 60 / oat 30 / rust accent 10. */
+:root { background:#fcfaf5; color:#302e29; --coral:#b65034; --cream:#eee7da; --muted:#6c6b61; --line:#e2ddcf; --focus:#9f4029; }
+.demo-bar { background:#eee7da; }
+.hero { gap:40px; padding-top:48px; padding-bottom:55px; }
+.hero h1 { font-family:Georgia,serif; font-weight:400; letter-spacing:-2px; line-height:1.08; }
+.hero h1 .coral { color:#b65034; }
+.hero-art { padding:0; }
+.orbit,.art-spark,.math-note,.portrait-blob,.art-label { display:none; }
+.mentor-card { width:100%; transform:none; position:relative; inset:auto; border-radius:4px; box-shadow:none; border:1px solid #e2ddcf; background:#eee7da; }
+.mentor-tag { padding:18px 20px; }
+.mentor-portrait { height:360px; overflow:hidden; background:#eee7da; }
+.learning-photo { width:100%; height:100%; object-fit:cover; display:block; }
+.mentor-info { padding:20px; background:#eee7da; }
+.floating-note { position:relative; inset:auto; margin:0; border-radius:0 0 4px 4px; background:#f3eee4; box-shadow:none; width:100%; transform:none; }
+.hero-search { border-radius:5px; box-shadow:none; border:1px solid #d8d0c1; }
+.btn { border-radius:4px; min-height:42px; }
+.btn.coral-btn { background:#b65034; color:white; }
+.brand-symbol { border-radius:5px; }
+.filters { background:#eee7da; border-radius:4px; }
+.tutor-card { border-radius:5px; box-shadow:none; background:#fff; }
+.tutor-card:hover { border-color:#b65034; box-shadow:0 4px 14px #302e290a; }
+.how-section { background:#eee7da; border-radius:4px; }
+@media(max-width:700px) { .hero { padding-top:30px; gap:28px; } .hero h1 { font-size:47px; } .hero-art { height:auto; min-height:0; width:100%; } .mentor-card { width:100%; } .mentor-portrait { height:290px; } .floating-note { display:flex; } .hero-search { flex-wrap:wrap; } }
+.hero-art { display:block; height:auto; }
+.mentor-card { margin-top:0; }
+.floating-note { margin-top:0; }

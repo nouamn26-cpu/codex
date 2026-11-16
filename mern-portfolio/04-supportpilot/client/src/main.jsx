@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
+import "./brand.css";
 
 const KEY = "supportpilot-session";
 async function api(route, options = {}) {
@@ -149,7 +150,8 @@ function Auth({ onLogin }) {
             Bring your knowledge and your people together. Make every customer
             feel heard.
           </p>
-          <div className="story-preview">
+          <img className="auth-photo" src="/images/team.webp" alt="People collaborating around a laptop" width="1000" height="500" decoding="async" />
+        <div className="story-preview">
             <div className="preview-header">
               <span className="mini-orb">
                 <Icon name="star" />

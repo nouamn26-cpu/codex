@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
+import "./brand.css";
 
 const Icons = {
   arrow: (
@@ -140,84 +141,8 @@ function initialSession() {
   }
 }
 function Illustration() {
-  return (
-    <svg
-      className="salon-art"
-      viewBox="0 0 520 420"
-      role="img"
-      aria-label="An original illustration of a calm salon with a styling chair, arch mirror and plants"
-    >
-      <defs>
-        <linearGradient id="wall" x2="0" y2="1">
-          <stop stopColor="#e6e3d4" />
-          <stop offset="1" stopColor="#d5d9c6" />
-        </linearGradient>
-        <linearGradient id="mirror" x2="1" y2="1">
-          <stop stopColor="#b8c9bc" />
-          <stop offset="1" stopColor="#edf0e5" />
-        </linearGradient>
-      </defs>
-      <rect width="520" height="420" rx="12" fill="url(#wall)" />
-      <path d="M0 341h520v79H0z" fill="#c1b09a" />
-      <path
-        d="M0 341h520M65 341 0 420m142-79-30 79m112-79 8 79m77-79 40 79m46-79 85 79"
-        stroke="#aa9b87"
-        opacity=".5"
-      />
-      <path d="M176 236V94a75 75 0 0 1 150 0v142z" fill="#8f725d" />
-      <path d="M185 229V95a66 66 0 0 1 132 0v134z" fill="url(#mirror)" />
-      <path
-        d="m201 121 45-71M207 167l82-123m-8 108 25-38"
-        stroke="#fff"
-        strokeWidth="9"
-        opacity=".22"
-      />
-      <path d="M147 239h209v12H147z" fill="#a58a6e" />
-      <path d="M158 252h12v83h-12zm175 0h12v83h-12z" fill="#8e715a" />
-      <rect x="168" y="214" width="16" height="24" rx="3" fill="#f5f0df" />
-      <path d="M173 208h7v7h-7" fill="#8d9c82" />
-      <rect x="301" y="219" width="22" height="19" rx="3" fill="#b4a58c" />
-      <path
-        d="M312 219v-12m-4 12 1-17m7 17 3-15"
-        stroke="#655e4e"
-        strokeWidth="3"
-      />
-      <path d="M206 270v-23q0-10 10-10h65q10 0 10 10v50h-85z" fill="#315a4d" />
-      <path d="M200 286h97v37q0 9-10 9h-77q-10 0-10-9z" fill="#315a4d" />
-      <path d="M206 291h85" stroke="#638070" strokeWidth="3" />
-      <rect x="195" y="263" width="13" height="46" rx="5" fill="#bda27e" />
-      <rect x="289" y="263" width="13" height="46" rx="5" fill="#bda27e" />
-      <path
-        d="M248 332v34m-32 5h64m-61-1-18 9m76-9 18 9"
-        stroke="#4c5350"
-        strokeWidth="8"
-        strokeLinecap="round"
-      />
-      <path d="M77 335h51l-7 40H84z" fill="#e4d6ba" />
-      <path
-        d="M103 336v-94m0 44q-38 0-42-28 30-8 42 28m0 27q29-6 35-37-26-4-35 37m0-47q27-9 26-36-25 1-26 36m0-17q-28-8-29-34 27 1 29 34"
-        fill="#4f6e54"
-        stroke="#65765b"
-        strokeWidth="2"
-      />
-      <rect x="387" y="267" width="66" height="76" rx="4" fill="#a4896c" />
-      <path d="M393 289h54m-54 24h54" stroke="#7c6956" />
-      <circle cx="421" cy="278" r="2" fill="#f0e4cd" />
-      <circle cx="421" cy="302" r="2" fill="#f0e4cd" />
-      <path d="M405 267h34l-3-23h-28z" fill="#c5b295" />
-      <path
-        d="M421 245v-43m0 22q22-4 22-25-18 1-22 25m0-10q-19-4-21-24 18 1 21 24"
-        fill="#536e57"
-      />
-      <path d="M35 78h66v82H35z" fill="#b39d7c" />
-      <path d="M40 83h56v72H40z" fill="#ece6d4" />
-      <path d="M59 130q-13-31 7-36 25 1 10 29-6 14-11 17" fill="#a3b49b" />
-      <path d="m66 139 2-34" stroke="#6e8b72" />
-      <path d="M414 0v54" stroke="#7d705e" strokeWidth="3" />
-      <path d="M389 59q25-28 50 0v7h-50z" fill="#b69261" />
-      <path d="M396 66h36" stroke="#f4db9c" strokeWidth="4" />
-    </svg>
-  );
+  return <img className="salon-art editorial-photo" src="/images/salon.webp"
+    alt="Arched mirrors and styling stations inside a contemporary salon" width="1400" height="1100" fetchPriority="high" />;
 }
 function Modal({ title, subtitle, onClose, children, wide = false }) {
   const ref = useRef(null);
@@ -652,8 +577,8 @@ function App() {
             </div>
             <div className="hero-visual">
               <div className="image-caption">
-                <span>THE BOOKEASE STUDIO</span>
-                <span>EST. 2026</span>
+                <span>STUDIO INSPIRATION</span>
+                <span>DEMO EXPERIENCE</span>
               </div>
               <Illustration />
               <div className="floating-note">
@@ -790,63 +715,7 @@ function App() {
                     className={`portrait portrait-${i}`}
                     style={{ backgroundColor: person.color }}
                   >
-                    <svg viewBox="0 0 200 180" aria-hidden="true">
-                      <ellipse
-                        cx="100"
-                        cy="182"
-                        rx="62"
-                        ry="57"
-                        fill={["#31564b", "#92775c", "#72617b"][i]}
-                      />
-                      <path d="M82 125h36v29H82z" fill="#cda17f" />
-                      <ellipse
-                        cx="100"
-                        cy="85"
-                        rx="34"
-                        ry="44"
-                        fill={["#d7ad8c", "#ba8c69", "#e1b793"][i]}
-                      />
-                      {i === 0 ? (
-                        <>
-                          <path
-                            d="M64 91C38 20 150 13 139 83l-18-12-20-28-29 34-3 48-9-5Z"
-                            fill="#665244"
-                          />
-                          <path d="M133 76q25 62-7 72l-2-49" fill="#665244" />
-                        </>
-                      ) : i === 1 ? (
-                        <>
-                          <path
-                            d="M65 79q-8-52 41-46 40-3 28 48l-13-27-49 9Z"
-                            fill="#57473a"
-                          />
-                          <path
-                            d="M76 103q24 39 48-2l-9 36H88z"
-                            fill="#57473a"
-                          />
-                        </>
-                      ) : (
-                        <>
-                          <path
-                            d="M66 96Q47 29 99 26q54 0 37 94l-11-25-13-44-40 24v53l-10-5Z"
-                            fill="#343934"
-                          />
-                          <path d="M125 72q24 70 1 84l-1-47" fill="#343934" />
-                        </>
-                      )}
-                      <path
-                        d="M86 88h4m21 0h4"
-                        stroke="#51473e"
-                        strokeWidth="3"
-                        strokeLinecap="round"
-                      />
-                      <path
-                        d="M93 107q7 5 14-1"
-                        fill="none"
-                        stroke="#a7705a"
-                        strokeWidth="2"
-                      />
-                    </svg>
+                    <span className="staff-monogram">{person.name.split(" ").map(part => part[0]).join("").slice(0, 2)}</span>
                     <span className="portrait-badge">
                       <Icon name="sparkles" size={15} /> A little expertise
                     </span>
