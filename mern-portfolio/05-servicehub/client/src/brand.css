@@ -32,3 +32,4 @@ img { max-width: 100%; }
 .hero-art { display:block; height:auto; }
 .mentor-card { margin-top:0; }
 .floating-note { margin-top:0; }
+.mentor-card { margin-left:0; }

@@ -21,7 +21,7 @@ Preserves the five existing React/Express applications, API contracts, demo acco
 
 ## Verification
 
-All five Vite builds passed. Existing API/workflow suites: ShopFlow 12, BookEase 12, ClientDesk 10, SupportPilot 9, ServiceHub 6 (49 total, zero failures). Desktop browser review covered each application. Responsive CSS was reviewed; no physical mobile-device testing was performed.
+All five Vite builds passed. Existing API/workflow suites: ShopFlow 12, BookEase 12, ClientDesk 10, SupportPilot 9, ServiceHub 6 (49 total, zero failures). Desktop browser review covered each application. Responsive CSS was reviewed and ServiceHub was checked in a 390px browser frame without horizontal overflow; no physical mobile-device testing was performed.
 
 ## Scope
 
