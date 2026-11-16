@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { createRoot } from "react-dom/client";
 import "./style.css";
+import "./brand.css";
 
 const SUBJECTS = [
   "Mathematics",
@@ -567,8 +568,7 @@ function App() {
                     <span className="tiny-dot" /> YOUR NEXT CHAPTER
                   </div>
                   <div className="mentor-portrait">
-                    <Avatar tutor={{ color: "#e4eddf" }} large />
-                    <div className="portrait-blob" />
+                    <img className="learning-photo" src="/images/learning.webp" alt="Students working together around a laptop" width="1200" height="1000" fetchPriority="high" />
                   </div>
                   <div className="mentor-info">
                     <div>

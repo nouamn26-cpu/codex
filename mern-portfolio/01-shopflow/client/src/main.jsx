@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import { createRoot } from "react-dom/client";
 import { Icon, ProductArt, HeroArt } from "./art.jsx";
 import "./styles.css";
+import "./brand.css";
 
 // Checkout IDs identify browser retries; they are not authentication secrets.
 // randomUUID requires a secure origin, while getRandomValues also works on LAN HTTP.
@@ -517,7 +518,7 @@ function App() {
                   better <span>work.</span>
                 </h1>
                 <p className="hero-description">
-                  Thoughtful essentials for the space
+                  Considered essentials for the space
                   <br className="desktop-break" /> where your best ideas happen.
                 </p>
                 <button className="button dark" onClick={() => browse()}>
@@ -692,7 +693,6 @@ function App() {
                       <article key={product._id} className="product-card">
                         <div
                           className="product-visual"
-                          style={{ backgroundColor: product.color }}
                         >
                           <button
                             className="art-button"
@@ -1316,6 +1316,7 @@ function ProductDetail({ product, onClose, onAdd }) {
           <h2>{product.name}</h2>
           <p className="detail-price">{money(product.priceCents)}</p>
           <p className="detail-description">{product.description}</p>
+          <p className="photo-disclosure">Demo catalogue. Photography illustrates the product category; colours and specifications are fictional.</p>
           <p className="variant-label">
             Finish: <strong>{variant.label}</strong>
           </p>

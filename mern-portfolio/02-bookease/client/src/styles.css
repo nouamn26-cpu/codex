@@ -82,7 +82,7 @@ h3 {
   align-items: center;
   gap: 8px;
   padding: 0 5.5%;
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 0.1px;
 }
 .tiny-dot {
@@ -95,7 +95,7 @@ h3 {
 }
 .announcement-right {
   margin-left: auto;
-  font-size: 10px;
+  font-size: 12px;
   opacity: 0.85;
 }
 .announcement-right span {
@@ -240,7 +240,7 @@ h3 {
   min-width: 0;
 }
 .hero-badge {
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 1.25px;
   display: flex;
   align-items: center;
@@ -285,7 +285,7 @@ h3 {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 10px;
+  font-size: 12px;
   color: #707b67;
 }
 .hero-social {
@@ -311,7 +311,7 @@ h3 {
   align-items: center;
   justify-content: center;
   margin-left: -7px;
-  font-size: 8px;
+  font-size: 12px;
   font-weight: 600;
   background: #d5ddc7;
   color: #526542;
@@ -329,19 +329,19 @@ h3 {
 }
 .stars {
   color: #9b8653;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 2px;
   margin-bottom: 5px;
 }
 .stars strong {
-  font-size: 9px;
+  font-size: 12px;
   font-weight: 500;
   letter-spacing: 0;
   color: #4b5a4c;
   margin-left: 6px;
 }
 .hero-social small {
-  font-size: 9px;
+  font-size: 12px;
   color: #7e8578;
 }
 .hero-visual {
@@ -357,7 +357,7 @@ h3 {
 .image-caption {
   display: flex;
   justify-content: space-between;
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #828875;
   padding: 5px 4px 12px;
@@ -399,7 +399,7 @@ h3 {
 .floating-note small {
   display: block;
   font-family: Arial, sans-serif;
-  font-size: 8px;
+  font-size: 12px;
   color: #7b8370;
   margin-top: 6px;
 }
@@ -412,7 +412,7 @@ h3 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 7px;
+  font-size: 12px;
   padding: 13px 4px 0;
   color: #7b816d;
   letter-spacing: 0.7px;
@@ -422,7 +422,7 @@ h3 {
   gap: 6px;
   align-items: center;
   letter-spacing: 0;
-  font-size: 8px;
+  font-size: 12px;
 }
 .hero-image-bottom .tiny-dot {
   width: 4px;
@@ -442,7 +442,7 @@ h3 {
   display: flex;
   align-items: center;
   gap: 11px;
-  font-size: 11px;
+  font-size: 12px;
   color: #5e6a55;
 }
 .benefits svg {
@@ -462,7 +462,7 @@ h3 {
   margin-bottom: 28px;
 }
 .eyebrow {
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 1.7px;
   font-weight: 600;
   color: #7b8568;
@@ -480,7 +480,7 @@ h3 {
   margin-bottom: 0;
 }
 .section-counter {
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #7e8676;
   display: flex;
@@ -502,7 +502,7 @@ h3 {
   border: 1px solid var(--line);
   border-radius: 50px;
   padding: 10px 17px;
-  font-size: 10px;
+  font-size: 12px;
   display: flex;
   align-items: center;
   gap: 8px;
@@ -515,7 +515,7 @@ h3 {
 .category-tabs button > span {
   background: #ffffff20;
   border-radius: 50%;
-  font-size: 8px;
+  font-size: 12px;
   width: 16px;
   height: 16px;
   display: flex;
@@ -582,7 +582,7 @@ h3 {
   color: #8c8271;
 }
 .popular {
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 0.8px;
   color: #73835b;
   background: #dfe6ce;
@@ -590,12 +590,12 @@ h3 {
   border-radius: 4px;
 }
 .service-index {
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #b4baa8;
 }
 .service-category {
-  font-size: 9px;
+  font-size: 12px;
   color: #8a907f;
   margin-bottom: 8px;
 }
@@ -605,7 +605,7 @@ h3 {
   margin-bottom: 11px;
 }
 .service-description {
-  font-size: 11px;
+  font-size: 12px;
   color: #7c8375;
   line-height: 1.8;
   max-width: 300px;
@@ -633,7 +633,7 @@ h3 {
   display: flex;
   align-items: center;
   gap: 5px;
-  font-size: 9px;
+  font-size: 12px;
   color: #8b917f;
 }
 .circle-btn {
@@ -652,7 +652,7 @@ h3 {
   border-color: var(--forest);
 }
 .service-footnote {
-  font-size: 9px;
+  font-size: 12px;
   color: #919784;
   margin: 23px 0 0;
   display: flex;
@@ -689,13 +689,13 @@ h3 {
   color: #758267;
 }
 .studio-label > p:not(.eyebrow) {
-  font-size: 11px;
+  font-size: 12px;
   color: #7b8471;
   max-width: 270px;
   line-height: 1.8;
 }
 .studio-hours {
-  font-size: 8px;
+  font-size: 12px;
   color: #7a856b;
   letter-spacing: 0.8px;
   display: flex;
@@ -741,7 +741,7 @@ h3 {
   border: 1px solid #fff7;
   padding: 7px;
   border-radius: 4px;
-  font-size: 7px;
+  font-size: 12px;
   color: #7a816b;
 }
 .team-card h3 {
@@ -750,12 +750,12 @@ h3 {
   margin: 18px 0 5px;
 }
 .team-card > p {
-  font-size: 9px;
+  font-size: 12px;
   color: #8a907f;
   margin-bottom: 15px;
 }
 .team-card .text-btn {
-  font-size: 9px;
+  font-size: 12px;
   gap: 12px;
 }
 .bottom-cta {
@@ -775,7 +775,7 @@ h3 {
 }
 .bottom-cta .eyebrow {
   color: #b3c39a;
-  font-size: 8px;
+  font-size: 12px;
   margin-bottom: 11px;
 }
 .bottom-cta h2 {
@@ -806,7 +806,7 @@ footer {
   font-size: 12px;
 }
 .footer-brand p {
-  font-size: 9px;
+  font-size: 12px;
   color: #89907d;
   margin: 10px 0 0;
 }
@@ -814,11 +814,11 @@ footer {
   display: flex;
   flex-direction: column;
   gap: 9px;
-  font-size: 8px;
+  font-size: 12px;
   color: #8a917f;
 }
 .footer-sign {
-  font-size: 8px;
+  font-size: 12px;
   color: #8a917f;
 }
 .modal-backdrop {
@@ -882,7 +882,7 @@ footer {
   display: flex;
   flex-direction: column;
   gap: 8px;
-  font-size: 11px;
+  font-size: 12px;
   color: #596a51;
 }
 input,
@@ -929,7 +929,7 @@ textarea::placeholder {
   accent-color: var(--forest);
 }
 .form-error {
-  font-size: 11px;
+  font-size: 12px;
   background: #fae8e0;
   border: 1px solid #e6c9bc;
   color: #9c533e;
@@ -938,7 +938,7 @@ textarea::placeholder {
   margin: 8px 0;
 }
 .auth-toggle {
-  font-size: 10px;
+  font-size: 12px;
   color: #879079;
   text-align: center;
   margin: 19px 0;
@@ -946,7 +946,7 @@ textarea::placeholder {
 .auth-toggle button {
   padding: 0 0 0 3px;
   color: var(--forest);
-  font-size: 10px;
+  font-size: 12px;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
@@ -955,7 +955,7 @@ textarea::placeholder {
   padding-top: 19px;
 }
 .demo-signin > p {
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 1.1px;
   color: #8a947c;
   margin-bottom: 12px;
@@ -972,14 +972,14 @@ textarea::placeholder {
   align-items: center;
   justify-content: space-between;
   gap: 8px;
-  font-size: 9px;
+  font-size: 12px;
   flex: 1;
   background: #f0f1e5;
 }
 .demo-signin small {
   display: block;
   margin-top: 11px;
-  font-size: 8px;
+  font-size: 12px;
   color: #91987f;
 }
 .modal-wide {
@@ -1005,7 +1005,7 @@ textarea::placeholder {
 }
 .booking-summary > .eyebrow {
   display: block;
-  font-size: 7px;
+  font-size: 12px;
   margin-bottom: 10px;
 }
 .booking-summary h3 {
@@ -1015,7 +1015,7 @@ textarea::placeholder {
   margin-bottom: 13px;
 }
 .booking-summary > p {
-  font-size: 10px;
+  font-size: 12px;
   color: #839075;
   line-height: 1.8;
   margin-bottom: 22px;
@@ -1023,13 +1023,13 @@ textarea::placeholder {
 .summary-line {
   display: flex;
   justify-content: space-between;
-  font-size: 9px;
+  font-size: 12px;
   padding: 8px 0;
   color: #819073;
   gap: 8px;
 }
 .summary-line strong {
-  font-size: 9px;
+  font-size: 12px;
   color: #556d48;
   font-weight: 500;
 }
@@ -1040,7 +1040,7 @@ textarea::placeholder {
   border-top: 1px solid #dce3ce;
   margin-top: 12px;
   padding-top: 17px;
-  font-size: 11px;
+  font-size: 12px;
 }
 .summary-total strong {
   font-size: 27px;
@@ -1051,7 +1051,7 @@ textarea::placeholder {
   margin: 16px 0 0;
   display: flex;
   gap: 7px;
-  font-size: 8px;
+  font-size: 12px;
   line-height: 1.65;
 }
 .booking-fields {
@@ -1062,12 +1062,12 @@ textarea::placeholder {
   display: flex;
   align-items: center;
   gap: 10px;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   margin-bottom: 13px;
 }
 .step-label > span {
-  font-size: 8px;
+  font-size: 12px;
   border: 1px solid #d8dfcb;
   border-radius: 50%;
   width: 22px;
@@ -1080,7 +1080,7 @@ textarea::placeholder {
 .step-label > small {
   margin-left: auto;
   color: #919b80;
-  font-size: 8px;
+  font-size: 12px;
   font-weight: 400;
 }
 .staff-options {
@@ -1098,7 +1098,7 @@ textarea::placeholder {
   flex-direction: column;
   gap: 8px;
   align-items: center;
-  font-size: 10px;
+  font-size: 12px;
   min-width: 0;
 }
 .staff-options .selected {
@@ -1112,7 +1112,7 @@ textarea::placeholder {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 10px;
+  font-size: 12px;
   color: #6e7e5c;
   background: #e0e9d3;
   flex-shrink: 0;
@@ -1146,7 +1146,7 @@ textarea::placeholder {
   border: 1px solid #dbe0d0;
   padding: 10px 3px;
   border-radius: 4px;
-  font-size: 9px;
+  font-size: 12px;
   white-space: nowrap;
   background: #fdfcf5;
 }
@@ -1157,20 +1157,20 @@ textarea::placeholder {
 }
 .notes-label {
   margin-top: 23px;
-  font-size: 10px;
+  font-size: 12px;
   display: block;
 }
 .notes-label > span {
   color: #99a08e;
-  font-size: 9px;
+  font-size: 12px;
 }
 .notes-label textarea {
   margin-top: 9px;
-  font-size: 10px;
+  font-size: 12px;
 }
 .slot-loading,
 .no-slots {
-  font-size: 10px;
+  font-size: 12px;
   color: #859574;
   display: flex;
   align-items: center;
@@ -1188,7 +1188,7 @@ textarea::placeholder {
   padding-top: 22px;
 }
 .booking-modal-footer > p {
-  font-size: 9px;
+  font-size: 12px;
   color: #929a83;
   display: flex;
   align-items: center;
@@ -1197,7 +1197,7 @@ textarea::placeholder {
 }
 .booking-modal-footer .btn {
   gap: 15px;
-  font-size: 10px;
+  font-size: 12px;
 }
 .toast {
   position: fixed;
@@ -1215,7 +1215,7 @@ textarea::placeholder {
   align-items: center;
   gap: 12px;
   max-width: min(600px, calc(100% - 32px));
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.5;
 }
 .toast-icon {
@@ -1243,21 +1243,21 @@ textarea::placeholder {
 .avatar.small {
   height: 31px;
   width: 31px;
-  font-size: 8px;
+  font-size: 12px;
 }
 .account-name {
-  font-size: 11px;
+  font-size: 12px;
   text-align: left;
 }
 .account-name small {
-  font-size: 7px;
+  font-size: 12px;
   display: block;
   color: #8b947d;
   margin-top: 3px;
   text-transform: capitalize;
 }
 .logout {
-  font-size: 9px;
+  font-size: 12px;
   color: #8d967e;
 }
 .dashboard {
@@ -1279,7 +1279,7 @@ textarea::placeholder {
   margin-bottom: 13px;
 }
 .dashboard-heading .eyebrow {
-  font-size: 8px;
+  font-size: 12px;
 }
 .dashboard-heading .muted {
   font-size: 12px;
@@ -1320,7 +1320,7 @@ textarea::placeholder {
 }
 .stats-row p {
   margin: 0;
-  font-size: 10px;
+  font-size: 12px;
   color: #8c957f;
   line-height: 1.5;
   flex: 1;
@@ -1340,13 +1340,13 @@ textarea::placeholder {
 .zone-value small {
   display: block;
   font-family: Arial, sans-serif;
-  font-size: 8px;
+  font-size: 12px;
   color: #8c957f;
   margin-top: 6px;
 }
 .stats-note {
   width: 100%;
-  font-size: 9px;
+  font-size: 12px;
   color: #919a85;
   padding-top: 14px;
   border-top: 1px solid #e9ecdf;
@@ -1364,7 +1364,7 @@ textarea::placeholder {
   letter-spacing: -0.6px;
 }
 .appointments-top .text-btn {
-  font-size: 10px;
+  font-size: 12px;
   color: #859473;
 }
 .appointment-list {
@@ -1396,7 +1396,7 @@ textarea::placeholder {
   gap: 5px;
 }
 .appointment-date > span {
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #8d997c;
   text-transform: uppercase;
@@ -1409,7 +1409,7 @@ textarea::placeholder {
   color: #5e7b4c;
 }
 .appointment-date small {
-  font-size: 8px;
+  font-size: 12px;
   color: #8d997c;
 }
 .appointment-info {
@@ -1430,7 +1430,7 @@ textarea::placeholder {
 .status {
   padding: 5px 9px;
   border-radius: 4px;
-  font-size: 8px;
+  font-size: 12px;
   text-transform: capitalize;
   background: #edf0e1;
   color: #87906f;
@@ -1460,17 +1460,17 @@ textarea::placeholder {
   align-items: center;
   gap: 6px;
   flex-wrap: wrap;
-  font-size: 10px;
+  font-size: 12px;
   color: #939b85;
   margin: 12px 0 0;
 }
 .appointment-info .customer-name {
-  font-size: 9px;
+  font-size: 12px;
   color: #7b8b6b;
   margin-top: 8px;
 }
 .appointment-info .booking-note {
-  font-size: 9px;
+  font-size: 12px;
   font-style: italic;
   margin-top: 7px;
 }
@@ -1487,7 +1487,7 @@ textarea::placeholder {
   margin-bottom: 7px;
 }
 .appointment-actions .text-btn {
-  font-size: 9px;
+  font-size: 12px;
 }
 .cancel-btn {
   color: #aa8f78;
@@ -1503,18 +1503,18 @@ textarea::placeholder {
   color: #7d906b;
 }
 .dashboard-notice strong {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 500;
   color: #677f58;
 }
 .dashboard-notice p {
-  font-size: 9px;
+  font-size: 12px;
   margin: 5px 0 0;
   color: #929f81;
 }
 .dashboard-notice > .text-btn {
   margin-left: auto;
-  font-size: 10px;
+  font-size: 12px;
 }
 .empty-state {
   border: 1px dashed #d9e0cb;
@@ -1532,12 +1532,12 @@ textarea::placeholder {
   color: #607951;
 }
 .empty-state > p {
-  font-size: 11px;
+  font-size: 12px;
   margin-bottom: 22px;
   color: #949f86;
 }
 .empty-state .btn {
-  font-size: 10px;
+  font-size: 12px;
 }
 .empty-icon {
   width: 70px;
@@ -1564,7 +1564,7 @@ textarea::placeholder {
   font-weight: 500;
 }
 .notification-banner p {
-  font-size: 10px;
+  font-size: 12px;
   margin: 7px 0 0;
   color: #98a287;
 }
@@ -1608,7 +1608,7 @@ textarea::placeholder {
   font-weight: 500;
 }
 .message-card .muted {
-  font-size: 9px;
+  font-size: 12px;
   margin-top: 10px;
 }
 .message-card pre {
@@ -1616,7 +1616,7 @@ textarea::placeholder {
   overflow-wrap: anywhere;
   font-family: Arial, sans-serif;
   line-height: 1.8;
-  font-size: 10px;
+  font-size: 12px;
   color: #919c82;
   margin: 18px 0 0;
 }
@@ -1643,12 +1643,12 @@ textarea::placeholder {
   margin-bottom: 8px;
 }
 .manage-card p {
-  font-size: 10px;
+  font-size: 12px;
   color: #8a987a;
   margin: 0;
 }
 .manage-card .btn {
-  font-size: 10px;
+  font-size: 12px;
   gap: 16px;
 }
 .loading-state {
@@ -1732,11 +1732,11 @@ textarea::placeholder {
     gap: 13px;
   }
   .hero-note {
-    font-size: 8px;
+    font-size: 12px;
   }
   .hero .btn-large {
     padding: 16px 18px;
-    font-size: 11px;
+    font-size: 12px;
     gap: 16px;
   }
   .floating-note {
@@ -1748,13 +1748,13 @@ textarea::placeholder {
     font-size: 15px;
   }
   .floating-note small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .service-card {
     padding: 22px 21px 17px;
   }
   .popular {
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 0.5px;
   }
   .studio-label h2 {
@@ -1774,7 +1774,7 @@ textarea::placeholder {
     gap: 12px;
   }
   .header nav button {
-    font-size: 10px;
+    font-size: 12px;
   }
   .logout {
     display: none;
@@ -1794,7 +1794,7 @@ textarea::placeholder {
     margin-left: auto;
   }
   .header nav button {
-    font-size: 10px;
+    font-size: 12px;
   }
   .header-account {
     margin-left: 0;
@@ -1814,7 +1814,7 @@ textarea::placeholder {
     font-size: 57px;
   }
   .hero-badge {
-    font-size: 7px;
+    font-size: 12px;
     letter-spacing: 0.8px;
     margin-bottom: 23px;
   }
@@ -1833,14 +1833,14 @@ textarea::placeholder {
     gap: 8px;
   }
   .hero-social small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .stars {
-    font-size: 8px;
+    font-size: 12px;
     letter-spacing: 1px;
   }
   .stars strong {
-    font-size: 8px;
+    font-size: 12px;
   }
   .hero-visual {
     padding: 9px;
@@ -1863,10 +1863,10 @@ textarea::placeholder {
     font-size: 21px;
   }
   .hero-image-bottom {
-    font-size: 6px;
+    font-size: 12px;
   }
   .hero-image-bottom > span:first-child {
-    font-size: 6px;
+    font-size: 12px;
   }
   .hero-asterisk {
     font-size: 30px;
@@ -1878,7 +1878,7 @@ textarea::placeholder {
     gap: 20px;
   }
   .benefits > span {
-    font-size: 9px;
+    font-size: 12px;
     gap: 8px;
   }
   .benefits > span:last-child {
@@ -1922,7 +1922,7 @@ textarea::placeholder {
     max-width: none;
     width: 48%;
     margin: 20px 0 0;
-    font-size: 11px;
+    font-size: 12px;
   }
   .studio-hours {
     margin: 20px 0 0;
@@ -1942,7 +1942,7 @@ textarea::placeholder {
     font-size: 28px;
   }
   .bottom-cta .btn-large {
-    font-size: 11px;
+    font-size: 12px;
     gap: 15px;
     padding: 17px;
   }
@@ -1960,12 +1960,12 @@ textarea::placeholder {
     font-size: 33px;
   }
   .dashboard-heading .btn {
-    font-size: 9px;
+    font-size: 12px;
     gap: 12px;
     padding: 13px;
   }
   .dashboard-heading .muted {
-    font-size: 10px;
+    font-size: 12px;
   }
   .stats-row {
     gap: 13px;
@@ -1975,7 +1975,7 @@ textarea::placeholder {
     gap: 10px;
   }
   .stats-row p {
-    font-size: 8px;
+    font-size: 12px;
   }
   .stats-icon {
     width: 35px;
@@ -1988,7 +1988,7 @@ textarea::placeholder {
     font-size: 21px;
   }
   .stats-note {
-    font-size: 8px;
+    font-size: 12px;
   }
   .modal-wide {
     padding: 30px;
@@ -2004,16 +2004,16 @@ textarea::placeholder {
     font-size: 23px;
   }
   .booking-summary p {
-    font-size: 9px;
+    font-size: 12px;
   }
   .time-slots button {
-    font-size: 8px;
+    font-size: 12px;
   }
   .modal h2 {
     font-size: 29px;
   }
   .booking-modal-footer > p {
-    font-size: 8px;
+    font-size: 12px;
   }
   .manage-card {
     gap: 14px;
@@ -2027,7 +2027,7 @@ textarea::placeholder {
   .announcement {
     padding: 0 5%;
     height: 30px;
-    font-size: 9px;
+    font-size: 12px;
   }
   .announcement-right {
     display: none;
@@ -2057,13 +2057,13 @@ textarea::placeholder {
     padding-top: 13px;
   }
   .header nav button {
-    font-size: 10px;
+    font-size: 12px;
   }
   .header-account {
     margin-left: auto;
   }
   .header-account .text-btn {
-    font-size: 11px;
+    font-size: 12px;
   }
   .account-name {
     display: block;
@@ -2075,7 +2075,7 @@ textarea::placeholder {
     align-items: stretch;
   }
   .hero-badge {
-    font-size: 7px;
+    font-size: 12px;
     letter-spacing: 1px;
     margin-bottom: 24px;
   }
@@ -2096,12 +2096,12 @@ textarea::placeholder {
   }
   .hero .btn-large {
     padding: 17px 21px;
-    font-size: 11px;
+    font-size: 12px;
     gap: 20px;
   }
   .hero-note {
     display: flex;
-    font-size: 8px;
+    font-size: 12px;
   }
   .hero-actions {
     gap: 16px;
@@ -2112,13 +2112,13 @@ textarea::placeholder {
     max-width: none;
   }
   .hero-social small {
-    font-size: 8px;
+    font-size: 12px;
   }
   .hero-social .stars {
-    font-size: 9px;
+    font-size: 12px;
   }
   .stars strong {
-    font-size: 9px;
+    font-size: 12px;
   }
   .hero-visual {
     width: 94%;
@@ -2140,16 +2140,16 @@ textarea::placeholder {
     font-size: 14px;
   }
   .floating-note small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .image-caption {
-    font-size: 7px;
+    font-size: 12px;
   }
   .hero-image-bottom {
-    font-size: 6px;
+    font-size: 12px;
   }
   .hero-image-bottom > span:first-child {
-    font-size: 7px;
+    font-size: 12px;
   }
   .benefits {
     flex-wrap: wrap;
@@ -2158,7 +2158,7 @@ textarea::placeholder {
   }
   .benefits > span {
     width: calc(50% - 8px);
-    font-size: 8px;
+    font-size: 12px;
     gap: 7px;
   }
   .benefits > span:last-child {
@@ -2180,7 +2180,7 @@ textarea::placeholder {
     margin-bottom: 12px;
   }
   .section-top .muted {
-    font-size: 11px;
+    font-size: 12px;
     max-width: 240px;
     line-height: 1.7;
   }
@@ -2188,7 +2188,7 @@ textarea::placeholder {
     display: none;
   }
   .eyebrow {
-    font-size: 8px;
+    font-size: 12px;
     margin-bottom: 13px;
   }
   .category-tabs {
@@ -2196,7 +2196,7 @@ textarea::placeholder {
     margin-bottom: 21px;
   }
   .category-tabs button {
-    font-size: 9px;
+    font-size: 12px;
     padding: 9px 12px;
   }
   .service-cards {
@@ -2214,18 +2214,18 @@ textarea::placeholder {
     width: 49px;
   }
   .popular {
-    font-size: 7px;
+    font-size: 12px;
     padding: 8px 10px;
   }
   .service-category {
-    font-size: 9px;
+    font-size: 12px;
   }
   .service-card h3 {
     font-size: 25px;
   }
   .service-description {
     min-height: 0;
-    font-size: 11px;
+    font-size: 12px;
     max-width: none;
     margin-bottom: 20px;
   }
@@ -2236,14 +2236,14 @@ textarea::placeholder {
     font-size: 22px;
   }
   .service-card-bottom > div > span {
-    font-size: 10px;
+    font-size: 12px;
   }
   .circle-btn {
     width: 36px;
     height: 36px;
   }
   .service-footnote {
-    font-size: 8px;
+    font-size: 12px;
     line-height: 1.6;
     align-items: flex-start;
     margin-top: 22px;
@@ -2263,7 +2263,7 @@ textarea::placeholder {
   }
   .studio-label .eyebrow {
     width: calc(100% - 80px);
-    font-size: 7px;
+    font-size: 12px;
   }
   .studio-label h2 {
     font-size: 32px;
@@ -2272,12 +2272,12 @@ textarea::placeholder {
   }
   .studio-label > p:not(.eyebrow) {
     width: 100%;
-    font-size: 11px;
+    font-size: 12px;
     margin-top: 17px;
     max-width: 330px;
   }
   .studio-hours {
-    font-size: 8px;
+    font-size: 12px;
     margin-top: 18px;
   }
   .team-cards {
@@ -2295,7 +2295,7 @@ textarea::placeholder {
     height: 190px;
   }
   .portrait-badge {
-    font-size: 6px;
+    font-size: 12px;
     padding: 6px;
     left: 7px;
     right: 7px;
@@ -2310,12 +2310,12 @@ textarea::placeholder {
     margin-top: 15px;
   }
   .team-card > p {
-    font-size: 8px;
+    font-size: 12px;
     line-height: 1.6;
     margin-bottom: 12px;
   }
   .team-card .text-btn {
-    font-size: 8px;
+    font-size: 12px;
     gap: 6px;
   }
   .bottom-cta {
@@ -2332,15 +2332,15 @@ textarea::placeholder {
     max-width: 270px;
   }
   .bottom-cta .eyebrow {
-    font-size: 7px;
+    font-size: 12px;
   }
   .bottom-cta .btn-large {
-    font-size: 10px;
+    font-size: 12px;
     padding: 14px 18px;
     min-height: 47px;
   }
   .footer-sign {
-    font-size: 7px;
+    font-size: 12px;
     text-align: right;
     max-width: 100px;
     line-height: 1.8;
@@ -2349,7 +2349,7 @@ textarea::placeholder {
     font-size: 21px;
   }
   .footer-brand p {
-    font-size: 8px;
+    font-size: 12px;
   }
   footer {
     padding: 23px 0;
@@ -2368,10 +2368,10 @@ textarea::placeholder {
     padding-right: 5px;
   }
   .modal .eyebrow {
-    font-size: 7px;
+    font-size: 12px;
   }
   .modal-subtitle {
-    font-size: 11px;
+    font-size: 12px;
     margin-bottom: 20px;
   }
   .modal-wide {
@@ -2400,7 +2400,7 @@ textarea::placeholder {
   }
   .booking-summary > .eyebrow {
     width: 100%;
-    font-size: 7px;
+    font-size: 12px;
     margin-top: 2px;
   }
   .booking-summary h3 {
@@ -2419,13 +2419,13 @@ textarea::placeholder {
     padding-top: 12px;
     margin-top: 0;
     width: 100%;
-    font-size: 11px;
+    font-size: 12px;
   }
   .summary-total strong {
     font-size: 25px;
   }
   .booking-summary > .summary-note {
-    font-size: 8px;
+    font-size: 12px;
     margin: 14px 0 0;
     width: 100%;
   }
@@ -2433,7 +2433,7 @@ textarea::placeholder {
     width: 100%;
   }
   .step-label {
-    font-size: 10px;
+    font-size: 12px;
     margin-bottom: 12px;
   }
   .staff-options {
@@ -2441,7 +2441,7 @@ textarea::placeholder {
     margin-bottom: 22px;
   }
   .staff-options > button {
-    font-size: 10px;
+    font-size: 12px;
     padding: 11px;
   }
   .time-slots {
@@ -2450,7 +2450,7 @@ textarea::placeholder {
   }
   .time-slots button {
     padding: 11px 3px;
-    font-size: 9px;
+    font-size: 12px;
   }
   .notes-label {
     margin-top: 20px;
@@ -2463,17 +2463,17 @@ textarea::placeholder {
     margin-top: 22px;
   }
   .booking-modal-footer > p {
-    font-size: 9px;
+    font-size: 12px;
     justify-content: center;
   }
   .booking-modal-footer .btn {
-    font-size: 11px;
+    font-size: 12px;
     padding: 15px;
   }
   .toast {
     bottom: 15px;
     padding: 12px;
-    font-size: 10px;
+    font-size: 12px;
     gap: 9px;
     min-width: calc(100% - 28px);
   }
@@ -2500,11 +2500,11 @@ textarea::placeholder {
     letter-spacing: -1px;
   }
   .dashboard-heading .muted {
-    font-size: 10px;
+    font-size: 12px;
     max-width: 320px;
   }
   .dashboard-heading .btn {
-    font-size: 10px;
+    font-size: 12px;
     padding: 13px 16px;
     gap: 18px;
   }
@@ -2532,12 +2532,12 @@ textarea::placeholder {
     padding: 0;
     flex: 1;
     text-align: right;
-    font-size: 8px;
+    font-size: 12px;
     max-width: 95px;
   }
   .stats-row > div:last-child p {
     flex: none;
-    font-size: 8px;
+    font-size: 12px;
   }
   .stats-row .zone-value {
     display: inline-block;
@@ -2545,12 +2545,12 @@ textarea::placeholder {
     margin: 0 0 0 8px;
   }
   .zone-value small {
-    font-size: 7px;
+    font-size: 12px;
     display: inline;
     margin-left: 8px;
   }
   .stats-row p {
-    font-size: 8px;
+    font-size: 12px;
     line-height: 1.4;
   }
   .stats-row strong {
@@ -2565,14 +2565,14 @@ textarea::placeholder {
     width: 17px;
   }
   .stats-note {
-    font-size: 7px;
+    font-size: 12px;
     padding-top: 13px;
   }
   .appointments-top h2 {
     font-size: 24px;
   }
   .appointments-top .text-btn {
-    font-size: 8px;
+    font-size: 12px;
     gap: 5px;
   }
   .appointments-top svg {
@@ -2593,10 +2593,10 @@ textarea::placeholder {
     font-size: 25px;
   }
   .appointment-date > span {
-    font-size: 7px;
+    font-size: 12px;
   }
   .appointment-date small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .appointment-title {
     gap: 8px;
@@ -2607,11 +2607,11 @@ textarea::placeholder {
     line-height: 1.1;
   }
   .status {
-    font-size: 7px;
+    font-size: 12px;
     padding: 4px 6px;
   }
   .appointment-info > p {
-    font-size: 9px;
+    font-size: 12px;
     line-height: 1.8;
     margin-top: 8px;
     gap: 5px;
@@ -2633,7 +2633,7 @@ textarea::placeholder {
     margin: 0 auto 0 0;
   }
   .appointment-actions .text-btn {
-    font-size: 8px;
+    font-size: 12px;
   }
   .dashboard-notice {
     padding: 18px;
@@ -2648,14 +2648,14 @@ textarea::placeholder {
     min-width: 0;
   }
   .dashboard-notice strong {
-    font-size: 10px;
+    font-size: 12px;
   }
   .dashboard-notice p {
-    font-size: 8px;
+    font-size: 12px;
     line-height: 1.8;
   }
   .dashboard-notice > .text-btn {
-    font-size: 9px;
+    font-size: 12px;
     margin: 0 0 0 32px;
   }
   .empty-state {
@@ -2666,10 +2666,10 @@ textarea::placeholder {
     line-height: 1.2;
   }
   .empty-state > p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .empty-state .btn {
-    font-size: 9px;
+    font-size: 12px;
     padding: 13px 17px;
   }
   .notification-banner {
@@ -2680,10 +2680,10 @@ textarea::placeholder {
     width: 23px;
   }
   .notification-banner strong {
-    font-size: 11px;
+    font-size: 12px;
   }
   .notification-banner p {
-    font-size: 9px;
+    font-size: 12px;
     line-height: 1.8;
   }
   .message-card {
@@ -2708,11 +2708,11 @@ textarea::placeholder {
     width: 100%;
   }
   .message-card .muted {
-    font-size: 8px;
+    font-size: 12px;
     line-height: 1.8;
   }
   .message-card pre {
-    font-size: 9px;
+    font-size: 12px;
     line-height: 1.8;
   }
   .manage-card {
@@ -2728,22 +2728,22 @@ textarea::placeholder {
     font-size: 20px;
   }
   .manage-card p {
-    font-size: 9px;
+    font-size: 12px;
   }
   .manage-card .status {
-    font-size: 7px;
+    font-size: 12px;
   }
   .manage-card > .btn {
     margin-left: 53px;
     padding: 10px 12px;
-    font-size: 9px;
+    font-size: 12px;
     min-height: 36px;
   }
   .auth-toggle {
-    font-size: 9px;
+    font-size: 12px;
   }
   .demo-signin button {
-    font-size: 8px;
+    font-size: 12px;
     padding: 10px 7px;
   }
   .form-row {

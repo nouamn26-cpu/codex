@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
+import "./brand.css";
 
 const STAGES = ["New", "Contacted", "Proposal", "Won", "Lost"];
 const money = (amount) =>
@@ -222,11 +223,12 @@ function Auth({ onLogin }) {
             agency’s next chapter starts here.
           </p>
         </div>
+        <img className="auth-photo" src="/images/workspace.webp" alt="An organised workspace for planning client projects" width="1000" height="500" decoding="async" />
         <div className="story-card">
           <div className="story-card-top">
             <span className="live-dot" />
             YOUR PIPELINE, IN FOCUS
-            <span className="story-card-tag">Live data</span>
+            <span className="story-card-tag">Illustrative preview</span>
           </div>
           <div className="story-bars">
             {[45, 72, 58, 92, 76, 100, 88].map((height, index) => (

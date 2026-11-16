@@ -83,7 +83,7 @@ textarea {
   align-items: center;
   justify-content: space-between;
   padding: 8px 48px;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.4px;
   gap: 20px;
 }
@@ -96,7 +96,7 @@ textarea {
   opacity: 0.65;
 }
 .demo-label {
-  font-size: 9px;
+  font-size: 12px;
   opacity: 0.7;
 }
 .site-header {
@@ -203,11 +203,11 @@ nav {
 .account-button {
   width: auto;
   gap: 7px;
-  font-size: 11px;
+  font-size: 12px;
   white-space: nowrap;
 }
 .admin-link {
-  font-size: 10px;
+  font-size: 12px;
   border: 1px solid #d7dacd;
   border-radius: 4px;
   padding: 6px;
@@ -216,7 +216,7 @@ nav {
   display: flex;
   align-items: center;
   gap: 8px;
-  font-size: 11px;
+  font-size: 12px;
   border-left: 1px solid #dddcd6;
   padding: 0 0 0 22px;
   height: 26px;
@@ -224,7 +224,7 @@ nav {
 .bag-count {
   border-radius: 50%;
   background: #e8e9df;
-  font-size: 9px;
+  font-size: 12px;
   width: 20px;
   height: 20px;
   display: flex;
@@ -247,7 +247,7 @@ nav {
   padding-right: 12px;
 }
 .eyebrow {
-  font-size: 9px;
+  font-size: 12px;
   line-height: 1.6;
   font-weight: 700;
   letter-spacing: 1.8px;
@@ -286,7 +286,7 @@ nav {
   min-height: 45px;
   padding: 0 22px;
   border-radius: 5px;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   display: inline-flex;
   align-items: center;
@@ -319,7 +319,7 @@ nav {
 .button.small {
   min-height: 34px;
   padding: 0 12px;
-  font-size: 10px;
+  font-size: 12px;
   gap: 7px;
 }
 .hero .button {
@@ -329,7 +329,7 @@ nav {
   display: flex;
   align-items: center;
   gap: 8px;
-  font-size: 9px;
+  font-size: 12px;
   color: #858c7d;
   margin-top: 30px;
 }
@@ -363,7 +363,7 @@ nav {
   display: flex;
   align-items: center;
   gap: 7px;
-  font-size: 7px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 1.1px;
 }
@@ -389,7 +389,7 @@ nav {
   text-align: left;
 }
 .hero-product small {
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 1.4px;
   color: #8c8b7d;
   display: block;
@@ -437,13 +437,13 @@ nav {
   flex-shrink: 0;
 }
 .benefits strong {
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 500;
   display: block;
   margin-bottom: 6px;
 }
 .benefits small {
-  font-size: 9px;
+  font-size: 12px;
   color: #8b8e82;
 }
 .catalog {
@@ -466,7 +466,7 @@ nav {
   line-height: 1.2;
 }
 .section-top > p {
-  font-size: 11px;
+  font-size: 12px;
   color: #93978c;
   line-height: 1.8;
   padding-bottom: 4px;
@@ -488,7 +488,7 @@ nav {
   flex-wrap: wrap;
 }
 .category-tab {
-  font-size: 10px;
+  font-size: 12px;
   color: #929688;
   min-height: 32px;
   padding: 0 13px;
@@ -522,7 +522,7 @@ nav {
   border: 0;
   outline: none;
   background: transparent;
-  font-size: 10px;
+  font-size: 12px;
   padding: 8px 0;
 }
 .search-field input::placeholder {
@@ -537,7 +537,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   margin: 19px 0 19px;
-  font-size: 9px;
+  font-size: 12px;
   color: #9a9e91;
   gap: 16px;
 }
@@ -547,7 +547,7 @@ nav {
   align-items: center;
 }
 .price-control {
-  font-size: 9px;
+  font-size: 12px;
   display: flex;
   align-items: center;
   gap: 9px;
@@ -567,7 +567,7 @@ nav {
 .sort-label select {
   background: transparent;
   border: 0;
-  font-size: 9px;
+  font-size: 12px;
   max-width: 117px;
   outline: none;
   color: #565f4d;
@@ -612,7 +612,7 @@ nav {
   border: 1px solid #f9fbf5bd;
   border-radius: 3px;
   padding: 5px 7px;
-  font-size: 7px;
+  font-size: 12px;
   font-weight: 500;
   color: #67725e;
 }
@@ -646,14 +646,14 @@ nav {
   margin-top: 14px;
 }
 .product-category {
-  font-size: 8px;
+  font-size: 12px;
   color: #9b9d92;
   margin-bottom: 6px;
 }
 .product-name {
   text-align: left;
   padding: 0;
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.5;
   font-weight: 500;
   display: block;
@@ -663,7 +663,7 @@ nav {
   text-underline-offset: 4px;
 }
 .product-price {
-  font-size: 11px;
+  font-size: 12px;
   padding-top: 17px;
   white-space: nowrap;
   color: #4c5445;
@@ -675,7 +675,7 @@ nav {
   margin-top: 9px;
 }
 .product-meta > span {
-  font-size: 8px;
+  font-size: 12px;
   color: #a2a696;
 }
 .swatches {
@@ -715,16 +715,16 @@ nav {
   margin: 5px 0 7px;
 }
 .story-strip p:not(.eyebrow) {
-  font-size: 10px;
+  font-size: 12px;
   color: #959a8a;
 }
 .story-strip .button {
   margin-left: auto;
   min-height: 40px;
-  font-size: 10px;
+  font-size: 12px;
 }
 .story-strip .eyebrow {
-  font-size: 7px;
+  font-size: 12px;
 }
 .site-footer {
   border-top: 1px solid var(--line);
@@ -742,7 +742,7 @@ nav {
   transform: scale(0.85);
 }
 .footer-top > p {
-  font-size: 10px;
+  font-size: 12px;
   color: #969b8d;
   line-height: 1.7;
   padding-top: 2px;
@@ -754,7 +754,7 @@ nav {
   padding-top: 9px;
 }
 .footer-links button {
-  font-size: 9px;
+  font-size: 12px;
   color: #808877;
   padding: 0;
 }
@@ -765,7 +765,7 @@ nav {
   padding: 26px 0 22px;
   display: flex;
   justify-content: space-between;
-  font-size: 8px;
+  font-size: 12px;
   color: #a0a694;
   gap: 15px;
 }
@@ -888,7 +888,7 @@ nav {
   min-width: 0;
 }
 .field > span {
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 600;
   color: #6b765f;
 }
@@ -909,7 +909,7 @@ nav {
 }
 .field input::placeholder {
   color: #aab09e;
-  font-size: 11px;
+  font-size: 12px;
 }
 .field input[type="color"] {
   padding: 4px;
@@ -922,7 +922,7 @@ nav {
   border: 1px solid #efc4b4;
   background: #fff0e9;
   color: #b65b3c;
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.7;
   padding: 11px 13px;
   border-radius: 5px;
@@ -930,7 +930,7 @@ nav {
 }
 .auth-switch {
   text-align: center;
-  font-size: 10px;
+  font-size: 12px;
   color: #8b9480;
   margin: 18px 0;
 }
@@ -947,16 +947,16 @@ nav {
   margin-top: 25px;
 }
 .demo-accounts strong {
-  font-size: 11px;
+  font-size: 12px;
 }
 .demo-accounts p {
-  font-size: 10px;
+  font-size: 12px;
   color: #8a947c;
   line-height: 1.8;
   margin: 8px 0 13px;
 }
 .demo-accounts code {
-  font-size: 10px;
+  font-size: 12px;
   color: #5c6a50;
 }
 .demo-accounts > div {
@@ -964,7 +964,7 @@ nav {
   gap: 9px;
 }
 .demo-accounts button {
-  font-size: 9px;
+  font-size: 12px;
   border: 1px solid #d2dbc5;
   border-radius: 4px;
   padding: 8px;
@@ -976,7 +976,7 @@ nav {
   background: #f0f2e8;
   border: 1px solid #e1e6d6;
   border-radius: 5px;
-  font-size: 11px;
+  font-size: 12px;
   color: #79876a;
   line-height: 1.8;
   display: flex;
@@ -1025,7 +1025,7 @@ nav {
   padding: 10px 0;
 }
 .detail-info .eyebrow {
-  font-size: 8px;
+  font-size: 12px;
 }
 .detail-info h2 {
   font-family: Georgia, "Times New Roman", serif;
@@ -1046,7 +1046,7 @@ nav {
   margin-top: 20px;
 }
 .variant-label {
-  font-size: 10px;
+  font-size: 12px;
   color: #929c83;
   margin: 25px 0 10px;
 }
@@ -1063,7 +1063,7 @@ nav {
   border: 1px solid #d7dfcb;
   border-radius: 4px;
   padding: 8px 12px;
-  font-size: 10px;
+  font-size: 12px;
 }
 .variant-options button.selected {
   border-color: #728765;
@@ -1071,7 +1071,7 @@ nav {
   color: #536a43;
 }
 .stock-note {
-  font-size: 8px;
+  font-size: 12px;
   color: #8c9b7d;
   display: flex;
   align-items: center;
@@ -1113,7 +1113,7 @@ nav {
   color: #778b64;
 }
 .quantity > span {
-  font-size: 11px;
+  font-size: 12px;
   min-width: 20px;
   text-align: center;
 }
@@ -1132,7 +1132,7 @@ nav {
   padding-top: 19px;
 }
 .detail-notes > span {
-  font-size: 9px;
+  font-size: 12px;
   color: #929e83;
   display: flex;
   gap: 9px;
@@ -1143,7 +1143,7 @@ nav {
   padding: 14px 14px 10px;
   background: #eff2e6;
   border-radius: 5px;
-  font-size: 9px;
+  font-size: 12px;
   color: #7c8b69;
   display: flex;
   gap: 8px;
@@ -1188,12 +1188,12 @@ nav {
   min-width: 0;
 }
 .cart-item-info > strong {
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.5;
   font-weight: 500;
 }
 .cart-item-info > small {
-  font-size: 9px;
+  font-size: 12px;
   color: #939e84;
   margin-top: 5px;
 }
@@ -1207,7 +1207,7 @@ nav {
   width: 26px;
 }
 .cart-item-info .quantity > span {
-  font-size: 9px;
+  font-size: 12px;
 }
 .cart-item-end {
   display: flex;
@@ -1216,10 +1216,10 @@ nav {
   justify-content: space-between;
 }
 .cart-item-end > span {
-  font-size: 11px;
+  font-size: 12px;
 }
 .cart-item-end > button {
-  font-size: 8px;
+  font-size: 12px;
   color: #a1a993;
   text-decoration: underline;
   text-underline-offset: 3px;
@@ -1238,14 +1238,14 @@ nav {
 .cart-summary > small {
   display: block;
   color: #9ba68c;
-  font-size: 9px;
+  font-size: 12px;
   line-height: 1.8;
   margin: 13px 0 20px;
 }
 .text-button {
   display: block;
   margin: 18px auto 0;
-  font-size: 10px;
+  font-size: 12px;
   color: #81926e;
   text-decoration: underline;
   text-underline-offset: 4px;
@@ -1295,16 +1295,16 @@ nav {
   flex: 1;
 }
 .checkout-item strong {
-  font-size: 9px;
+  font-size: 12px;
   font-weight: 500;
   line-height: 1.5;
 }
 .checkout-item small {
-  font-size: 8px;
+  font-size: 12px;
   color: #96a085;
 }
 .checkout-item > b {
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 500;
 }
 .summary-lines {
@@ -1313,7 +1313,7 @@ nav {
 .summary-lines p {
   display: flex;
   justify-content: space-between;
-  font-size: 10px;
+  font-size: 12px;
   color: #9aa58d;
   padding: 9px 0;
 }
@@ -1330,7 +1330,7 @@ nav {
 .checkout-fine {
   text-align: center;
   color: #a0aa92;
-  font-size: 8px;
+  font-size: 12px;
   line-height: 1.8;
   margin-top: 14px;
 }
@@ -1356,7 +1356,7 @@ nav {
   margin-bottom: 13px;
 }
 .success-body > p {
-  font-size: 11px;
+  font-size: 12px;
   color: #9aa58c;
   margin-bottom: 25px;
 }
@@ -1420,11 +1420,11 @@ nav {
   font-weight: 600;
 }
 .order-top > div > span {
-  font-size: 10px;
+  font-size: 12px;
   color: #9aa88b;
 }
 .status {
-  font-size: 9px;
+  font-size: 12px;
   text-transform: capitalize;
   padding: 6px 10px;
   background: #e8eddf;
@@ -1482,18 +1482,18 @@ nav {
   flex: 1;
 }
 .order-item strong {
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.6;
   font-weight: 500;
 }
 .order-item small {
   display: block;
-  font-size: 9px;
+  font-size: 12px;
   color: #9ca98c;
   margin-top: 5px;
 }
 .order-item b {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 500;
 }
 .order-delivery {
@@ -1501,18 +1501,18 @@ nav {
   flex-direction: column;
   gap: 9px;
   margin-left: auto;
-  font-size: 10px;
+  font-size: 12px;
   color: #9eac8b;
   line-height: 1.8;
   min-width: 180px;
 }
 .order-delivery strong {
-  font-size: 11px;
+  font-size: 12px;
   color: #687955;
   font-weight: 500;
 }
 .order-delivery .eyebrow {
-  font-size: 7px;
+  font-size: 12px;
 }
 .order-bottom {
   border-top: 1px solid #e7ebdf;
@@ -1523,7 +1523,7 @@ nav {
   gap: 20px;
 }
 .order-bottom > span {
-  font-size: 10px;
+  font-size: 12px;
   color: #9ba98a;
 }
 .order-bottom strong {
@@ -1534,7 +1534,7 @@ nav {
 }
 .order-bottom small {
   display: block;
-  font-size: 8px;
+  font-size: 12px;
   margin-top: 7px;
 }
 .order-bottom > div {
@@ -1555,7 +1555,7 @@ nav {
   min-width: 0;
 }
 .stat-row span {
-  font-size: 10px;
+  font-size: 12px;
   color: #96a187;
 }
 .stat-row strong {
@@ -1567,7 +1567,7 @@ nav {
   color: #536747;
 }
 .stat-row small {
-  font-size: 8px;
+  font-size: 12px;
   color: #a6b297;
   line-height: 1.8;
   display: block;
@@ -1580,7 +1580,7 @@ nav {
 }
 .admin-tabs > button {
   padding: 13px 0;
-  font-size: 11px;
+  font-size: 12px;
   color: #a2af92;
   border-bottom: 2px solid transparent;
 }
@@ -1589,7 +1589,7 @@ nav {
   color: #647b52;
 }
 .admin-tabs span {
-  font-size: 8px;
+  font-size: 12px;
   background: #e8eeda;
   padding: 3px 6px;
   border-radius: 3px;
@@ -1597,7 +1597,7 @@ nav {
 }
 .admin-tabs > .refresh-link {
   margin-left: auto;
-  font-size: 10px;
+  font-size: 12px;
 }
 .admin-table-wrap {
   border: 1px solid #e2e7d9;
@@ -1614,14 +1614,14 @@ nav {
 .admin-table th {
   background: #eff3e7;
   padding: 14px 18px;
-  font-size: 9px;
+  font-size: 12px;
   color: #9fac8d;
   font-weight: 500;
 }
 .admin-table td {
   padding: 17px 18px;
   border-top: 1px solid #edf0e6;
-  font-size: 11px;
+  font-size: 12px;
 }
 .table-product {
   display: flex;
@@ -1636,17 +1636,17 @@ nav {
 }
 .table-product strong {
   font-weight: 500;
-  font-size: 11px;
+  font-size: 12px;
 }
 .admin-table small {
   display: block;
   color: #a7b497;
-  font-size: 8px;
+  font-size: 12px;
   margin-top: 6px;
   line-height: 1.7;
 }
 .admin-table td > strong {
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 500;
 }
 .editor-layout {
@@ -1667,7 +1667,7 @@ nav {
   height: 200px;
 }
 .editor-preview > span {
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 1.4px;
   color: #6f8062;
   display: block;
@@ -1685,7 +1685,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 10px;
+  font-size: 12px;
   margin: 5px 0 15px;
 }
 .variant-editor > div:first-child strong {
@@ -1693,7 +1693,7 @@ nav {
   color: #81966b;
 }
 .variant-editor > div:first-child button {
-  font-size: 9px;
+  font-size: 12px;
   color: #7d985f;
 }
 .variant-row {
@@ -1712,13 +1712,13 @@ nav {
   flex-shrink: 0;
 }
 .variant-row .field > span {
-  font-size: 8px;
+  font-size: 12px;
 }
 .checkbox-field {
   display: flex;
   gap: 9px;
   align-items: center;
-  font-size: 10px;
+  font-size: 12px;
   color: #91a47a;
   margin-bottom: 20px;
 }
@@ -1739,7 +1739,7 @@ nav {
   display: flex;
   align-items: center;
   gap: 11px;
-  font-size: 11px;
+  font-size: 12px;
   max-width: calc(100vw - 32px);
   min-width: 270px;
   line-height: 1.6;
@@ -1846,17 +1846,17 @@ nav {
     font-size: 12px;
   }
   .hero-note {
-    font-size: 8px;
+    font-size: 12px;
   }
   .benefits small {
-    font-size: 8px;
+    font-size: 12px;
   }
   .benefits strong {
-    font-size: 9px;
+    font-size: 12px;
   }
   .category-tab {
     padding: 0 10px;
-    font-size: 9px;
+    font-size: 12px;
   }
   .search-field {
     min-width: 185px;
@@ -1873,22 +1873,22 @@ nav {
     width: calc((100% - 48px) / 4);
   }
   .product-name {
-    font-size: 10px;
+    font-size: 12px;
   }
   .product-price {
-    font-size: 10px;
+    font-size: 12px;
   }
   .footer-links {
     gap: 17px;
   }
   .hero-tag {
-    font-size: 6px;
+    font-size: 12px;
   }
   .detail-info h2 {
     font-size: 26px;
   }
   .detail-description {
-    font-size: 11px;
+    font-size: 12px;
   }
   .detail-layout {
     gap: 24px;
@@ -1918,14 +1918,14 @@ nav {
     min-height: 365px;
   }
   .hero .eyebrow {
-    font-size: 7px;
+    font-size: 12px;
     letter-spacing: 1.2px;
   }
   .hero-description {
-    font-size: 11px;
+    font-size: 12px;
   }
   .hero .button {
-    font-size: 10px;
+    font-size: 12px;
     padding: 0 15px;
     gap: 10px;
     min-height: 40px;
@@ -1938,7 +1938,7 @@ nav {
   .hero-tag {
     left: 13px;
     top: 13px;
-    font-size: 5px;
+    font-size: 12px;
     letter-spacing: 0.8px;
   }
   .hero-product {
@@ -1952,7 +1952,7 @@ nav {
     font-size: 16px;
   }
   .hero-product small {
-    font-size: 5px;
+    font-size: 12px;
   }
   .circle-arrow {
     width: 28px;
@@ -1970,11 +1970,11 @@ nav {
     width: 19px;
   }
   .benefits strong {
-    font-size: 8px;
+    font-size: 12px;
     line-height: 1.5;
   }
   .benefits small {
-    font-size: 7px;
+    font-size: 12px;
     line-height: 1.5;
   }
   .benefits > div:first-child {
@@ -1993,7 +1993,7 @@ nav {
     font-size: 27px;
   }
   .section-top > p {
-    font-size: 9px;
+    font-size: 12px;
   }
   .catalog-toolbar {
     flex-wrap: wrap;
@@ -2005,7 +2005,7 @@ nav {
     gap: 4px;
   }
   .category-tab {
-    font-size: 10px;
+    font-size: 12px;
     padding: 0 11px;
   }
   .search-field {
@@ -2025,10 +2025,10 @@ nav {
     font-size: 12px;
   }
   .product-category {
-    font-size: 8px;
+    font-size: 12px;
   }
   .product-meta > span {
-    font-size: 9px;
+    font-size: 12px;
   }
   .quick-add {
     width: 34px;
@@ -2042,7 +2042,7 @@ nav {
     font-size: 20px;
   }
   .story-strip .button {
-    font-size: 9px;
+    font-size: 12px;
     min-height: 37px;
     padding: 0 13px;
     gap: 10px;
@@ -2051,7 +2051,7 @@ nav {
     font-size: 48px;
   }
   .story-strip p:not(.eyebrow) {
-    font-size: 9px;
+    font-size: 12px;
   }
   .footer-top {
     gap: 24px;
@@ -2063,7 +2063,7 @@ nav {
     gap: 18px;
   }
   .footer-links button {
-    font-size: 8px;
+    font-size: 12px;
   }
   .page-heading h1 {
     font-size: 37px;
@@ -2085,7 +2085,7 @@ nav {
   }
   .order-delivery {
     min-width: 150px;
-    font-size: 9px;
+    font-size: 12px;
   }
   .order-top {
     padding: 18px 20px;
@@ -2122,7 +2122,7 @@ nav {
     width: 25px;
   }
   .detail-add .button {
-    font-size: 10px;
+    font-size: 12px;
     gap: 8px;
   }
   .detail-notes {
@@ -2139,10 +2139,10 @@ nav {
     gap: 8px;
   }
   .checkout-item > b {
-    font-size: 9px;
+    font-size: 12px;
   }
   .checkout-fields > .notice {
-    font-size: 9px;
+    font-size: 12px;
     padding: 12px;
   }
   .editor-layout {
@@ -2160,7 +2160,7 @@ nav {
     padding: 8px 20px;
     min-height: 31px;
     justify-content: center;
-    font-size: 8px;
+    font-size: 12px;
   }
   .announcement > span:first-child,
   .demo-label {
@@ -2201,10 +2201,10 @@ nav {
   .bag-count {
     width: 17px;
     height: 17px;
-    font-size: 8px;
+    font-size: 12px;
   }
   .admin-link {
-    font-size: 8px;
+    font-size: 12px;
     padding: 5px;
   }
   .logout-button {
@@ -2220,7 +2220,7 @@ nav {
     padding: 34px 0 26px;
   }
   .hero .eyebrow {
-    font-size: 8px;
+    font-size: 12px;
     letter-spacing: 1.4px;
   }
   .hero h1 {
@@ -2244,11 +2244,11 @@ nav {
   .hero .button {
     min-height: 42px;
     margin-top: 21px;
-    font-size: 11px;
+    font-size: 12px;
     padding: 0 18px;
   }
   .hero-note {
-    font-size: 8px;
+    font-size: 12px;
     max-width: none;
     margin-top: 18px;
   }
@@ -2265,7 +2265,7 @@ nav {
     object-fit: cover;
   }
   .hero-tag {
-    font-size: 6px;
+    font-size: 12px;
     padding: 7px 9px;
     left: 14px;
     top: 13px;
@@ -2280,7 +2280,7 @@ nav {
     font-size: 18px;
   }
   .hero-product small {
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 1px;
   }
   .circle-arrow {
@@ -2305,11 +2305,11 @@ nav {
     display: none;
   }
   .benefits strong {
-    font-size: 8px;
+    font-size: 12px;
     margin-bottom: 3px;
   }
   .benefits small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .benefits > div > svg {
     width: 20px;
@@ -2330,11 +2330,11 @@ nav {
   }
   .section-top > .eyebrow,
   .section-top .eyebrow {
-    font-size: 7px;
+    font-size: 12px;
     letter-spacing: 1.4px;
   }
   .section-top > p {
-    font-size: 8px;
+    font-size: 12px;
     max-width: 130px;
     padding-top: 20px;
     line-height: 1.7;
@@ -2357,7 +2357,7 @@ nav {
     scrollbar-width: none;
   }
   .category-tab {
-    font-size: 9px;
+    font-size: 12px;
     padding: 0 11px;
     min-height: 31px;
   }
@@ -2365,12 +2365,12 @@ nav {
     min-height: 36px;
   }
   .search-field input {
-    font-size: 10px;
+    font-size: 12px;
   }
   .results-toolbar {
     margin: 15px 0 17px;
     gap: 10px;
-    font-size: 8px;
+    font-size: 12px;
     align-items: flex-start;
   }
   .sort-controls {
@@ -2380,10 +2380,10 @@ nav {
   }
   .sort-label,
   .sort-label select {
-    font-size: 8px;
+    font-size: 12px;
   }
   .price-control {
-    font-size: 7px;
+    font-size: 12px;
     gap: 6px;
   }
   .price-control input {
@@ -2400,7 +2400,7 @@ nav {
     border-radius: 5px;
   }
   .product-badge {
-    font-size: 6px;
+    font-size: 12px;
     padding: 4px 5px;
     left: 9px;
     top: 9px;
@@ -2419,15 +2419,15 @@ nav {
     gap: 5px;
   }
   .product-name {
-    font-size: 10px;
+    font-size: 12px;
     line-height: 1.6;
   }
   .product-category {
-    font-size: 7px;
+    font-size: 12px;
     margin-bottom: 4px;
   }
   .product-price {
-    font-size: 10px;
+    font-size: 12px;
     padding-top: 14px;
   }
   .product-meta {
@@ -2435,7 +2435,7 @@ nav {
     gap: 5px;
   }
   .product-meta > span {
-    font-size: 7px;
+    font-size: 12px;
   }
   .swatches {
     gap: 2px;
@@ -2464,16 +2464,16 @@ nav {
     flex: 1;
   }
   .story-strip .eyebrow {
-    font-size: 6px;
+    font-size: 12px;
   }
   .story-strip p:not(.eyebrow) {
-    font-size: 8px;
+    font-size: 12px;
     line-height: 1.6;
     max-width: 190px;
   }
   .story-strip .button {
     margin-left: 56px;
-    font-size: 9px;
+    font-size: 12px;
     min-height: 34px;
   }
   .site-footer {
@@ -2500,10 +2500,10 @@ nav {
     justify-content: space-between;
   }
   .footer-links button {
-    font-size: 8px;
+    font-size: 12px;
   }
   .footer-bottom {
-    font-size: 7px;
+    font-size: 12px;
     padding-top: 22px;
     flex-direction: column;
     gap: 13px;
@@ -2545,11 +2545,11 @@ nav {
     gap: 12px;
   }
   .field > span {
-    font-size: 10px;
+    font-size: 12px;
   }
   .button {
     min-height: 44px;
-    font-size: 11px;
+    font-size: 12px;
   }
   .info-body {
     padding: 23px;
@@ -2558,7 +2558,7 @@ nav {
     font-size: 12px;
   }
   .notice {
-    font-size: 10px;
+    font-size: 12px;
     padding: 13px;
   }
   .detail-layout {
@@ -2588,15 +2588,15 @@ nav {
     margin-top: 16px;
   }
   .variant-label {
-    font-size: 11px;
+    font-size: 12px;
     margin-top: 20px;
   }
   .variant-options button {
-    font-size: 11px;
+    font-size: 12px;
     padding: 9px 14px;
   }
   .stock-note {
-    font-size: 9px;
+    font-size: 12px;
     margin: 17px 0 21px;
   }
   .detail-add .quantity {
@@ -2614,7 +2614,7 @@ nav {
     padding-top: 20px;
   }
   .detail-notes > span {
-    font-size: 10px;
+    font-size: 12px;
   }
   .drawer-overlay {
     padding: 0;
@@ -2629,7 +2629,7 @@ nav {
   }
   .cart-shipping {
     margin: 19px 20px;
-    font-size: 9px;
+    font-size: 12px;
     padding: 12px;
   }
   .cart-item {
@@ -2641,16 +2641,16 @@ nav {
     height: 80px;
   }
   .cart-item-info > strong {
-    font-size: 11px;
+    font-size: 12px;
   }
   .cart-item-info > small {
-    font-size: 9px;
+    font-size: 12px;
   }
   .cart-item-end > span {
-    font-size: 11px;
+    font-size: 12px;
   }
   .cart-item-end > button {
-    font-size: 8px;
+    font-size: 12px;
   }
   .cart-summary {
     padding: 23px 20px;
@@ -2659,7 +2659,7 @@ nav {
     font-size: 16px;
   }
   .cart-summary > small {
-    font-size: 9px;
+    font-size: 12px;
   }
   .checkout-layout {
     flex-direction: column;
@@ -2670,26 +2670,26 @@ nav {
     width: 100%;
   }
   .checkout-fields > .notice {
-    font-size: 10px;
+    font-size: 12px;
   }
   .checkout-summary {
     width: 100%;
     padding: 20px;
   }
   .checkout-item strong {
-    font-size: 11px;
+    font-size: 12px;
   }
   .checkout-item small {
-    font-size: 9px;
+    font-size: 12px;
   }
   .checkout-item > b {
-    font-size: 11px;
+    font-size: 12px;
   }
   .checkout-fine {
-    font-size: 9px;
+    font-size: 12px;
   }
   .summary-lines p {
-    font-size: 11px;
+    font-size: 12px;
   }
   .account-page {
     padding-top: 32px;
@@ -2705,15 +2705,15 @@ nav {
     font-size: 35px;
   }
   .page-heading p {
-    font-size: 11px;
+    font-size: 12px;
     margin-top: 10px;
   }
   .account-page > .eyebrow {
-    font-size: 8px;
+    font-size: 12px;
   }
   .page-heading > .button {
     min-height: 38px;
-    font-size: 10px;
+    font-size: 12px;
   }
   .empty {
     padding: 50px 18px;
@@ -2722,7 +2722,7 @@ nav {
     font-size: 23px;
   }
   .empty p {
-    font-size: 11px;
+    font-size: 12px;
   }
   .order-card {
     border-radius: 6px;
@@ -2736,13 +2736,13 @@ nav {
     align-items: flex-start;
   }
   .order-top strong {
-    font-size: 10px;
+    font-size: 12px;
   }
   .order-top > div > span {
-    font-size: 8px;
+    font-size: 12px;
   }
   .status {
-    font-size: 8px;
+    font-size: 12px;
     padding: 5px 8px;
   }
   .order-main {
@@ -2761,24 +2761,24 @@ nav {
     gap: 10px;
   }
   .order-item strong {
-    font-size: 10px;
+    font-size: 12px;
   }
   .order-item small {
-    font-size: 8px;
+    font-size: 12px;
   }
   .order-item b {
-    font-size: 10px;
+    font-size: 12px;
   }
   .order-delivery {
     width: 100%;
     margin: 0;
-    font-size: 9px;
+    font-size: 12px;
     border-top: 1px solid var(--line);
     padding-top: 17px;
     gap: 6px;
   }
   .order-delivery strong {
-    font-size: 10px;
+    font-size: 12px;
   }
   .order-bottom {
     padding: 16px;
@@ -2786,16 +2786,16 @@ nav {
     flex-wrap: wrap;
   }
   .order-bottom > span {
-    font-size: 9px;
+    font-size: 12px;
   }
   .order-bottom strong {
     font-size: 13px;
   }
   .order-bottom small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .order-bottom .button {
-    font-size: 8px;
+    font-size: 12px;
     min-height: 30px;
     padding: 0 9px;
   }
@@ -2810,22 +2810,22 @@ nav {
     padding: 17px 14px;
   }
   .stat-row span {
-    font-size: 9px;
+    font-size: 12px;
   }
   .stat-row strong {
     font-size: 27px;
   }
   .stat-row small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .admin-tabs {
     gap: 17px;
   }
   .admin-tabs > button {
-    font-size: 9px;
+    font-size: 12px;
   }
   .admin-tabs > .refresh-link {
-    font-size: 8px;
+    font-size: 12px;
   }
   .editor-layout {
     padding: 20px;
@@ -2855,16 +2855,16 @@ nav {
     flex-basis: 65px;
   }
   .variant-editor > div:first-child {
-    font-size: 11px;
+    font-size: 12px;
   }
   .variant-editor > div:first-child button {
-    font-size: 10px;
+    font-size: 12px;
   }
   .checkbox-field {
-    font-size: 11px;
+    font-size: 12px;
   }
   .toast {
-    font-size: 10px;
+    font-size: 12px;
     bottom: 18px;
     padding: 13px 15px;
     gap: 9px;

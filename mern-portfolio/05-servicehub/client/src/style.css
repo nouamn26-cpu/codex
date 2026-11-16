@@ -77,7 +77,7 @@ button svg {
   align-items: center;
   justify-content: space-between;
   padding: 7px 5%;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 600;
   letter-spacing: 0.1px;
   background: #f5f2e9;
@@ -93,7 +93,7 @@ button svg {
   padding: 0;
   background: none;
   color: #6b6b5e;
-  font-size: 10px;
+  font-size: 12px;
 }
 .demo-bar button span {
   padding-left: 12px;
@@ -180,7 +180,7 @@ button svg {
   width: 18px;
   height: 18px;
   margin-left: 5px;
-  font-size: 10px;
+  font-size: 12px;
 }
 .header-right {
   display: flex;
@@ -217,7 +217,7 @@ button svg {
 .btn.small {
   min-height: 37px;
   padding: 9px 13px;
-  font-size: 11px;
+  font-size: 12px;
   border-radius: 7px;
   gap: 8px;
 }
@@ -273,7 +273,7 @@ button svg {
   gap: 8px;
   align-items: center;
   letter-spacing: 1.8px;
-  font-size: 9px;
+  font-size: 12px;
   font-weight: 700;
   color: #8a897b;
 }
@@ -320,7 +320,7 @@ button svg {
   min-width: 0;
   border: 0;
   outline: none;
-  font-size: 11px;
+  font-size: 12px;
   padding: 8px 0;
   background: transparent;
 }
@@ -328,7 +328,7 @@ button svg {
   white-space: nowrap;
   min-height: 42px;
   padding: 10px 15px;
-  font-size: 11px;
+  font-size: 12px;
   border-radius: 6px;
 }
 .hero-meta {
@@ -336,7 +336,7 @@ button svg {
   align-items: center;
   gap: 23px;
   margin-top: 20px;
-  font-size: 9px;
+  font-size: 12px;
   color: #78786b;
 }
 .hero-meta span {
@@ -391,7 +391,7 @@ button svg {
 }
 .mentor-tag {
   padding: 17px 20px;
-  font-size: 7px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 1.4px;
   display: flex;
@@ -442,11 +442,11 @@ button svg {
 }
 .mentor-info strong {
   display: block;
-  font-size: 11px;
+  font-size: 12px;
 }
 .mentor-info span:not(.mentor-arrow) {
   display: block;
-  font-size: 9px;
+  font-size: 12px;
   color: #939286;
   margin-top: 5px;
 }
@@ -531,11 +531,11 @@ button svg {
   color: var(--coral);
 }
 .floating-note strong {
-  font-size: 10px;
+  font-size: 12px;
   display: block;
 }
 .floating-note div > span {
-  font-size: 9px;
+  font-size: 12px;
   color: #8a897d;
   display: block;
   margin-top: 4px;
@@ -544,7 +544,7 @@ button svg {
   position: absolute;
   right: -8%;
   bottom: 30%;
-  font-size: 8px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 2.5px;
   transform: rotate(90deg);
@@ -561,7 +561,7 @@ button svg {
   border-bottom: 1px solid var(--line);
 }
 .subject-strip > span {
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 1.2px;
   max-width: 90px;
   color: #969385;
@@ -577,7 +577,7 @@ button svg {
   padding: 5px 3px;
   border: 0;
   color: #636656;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 550;
 }
 .subject-strip button > span {
@@ -611,7 +611,7 @@ button svg {
   margin-bottom: 9px;
 }
 .section-heading p {
-  font-size: 11px;
+  font-size: 12px;
   color: #8b897b;
   margin: 0;
   line-height: 1.7;
@@ -623,7 +623,7 @@ button svg {
   padding: 9px 13px;
   border: 1px solid #e5e4d9;
   border-radius: 30px;
-  font-size: 9px;
+  font-size: 12px;
   white-space: nowrap;
   color: #74766a;
 }
@@ -638,7 +638,7 @@ button svg {
   border-right: 1px solid var(--line);
 }
 .filter-title {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   display: flex;
   justify-content: space-between;
@@ -652,14 +652,14 @@ button svg {
 }
 .filters label {
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 600;
   margin-bottom: 19px;
 }
 .filters select {
   margin-top: 10px;
   width: 100%;
-  font-size: 10px;
+  font-size: 12px;
   border: 1px solid #e2e2d6;
   border-radius: 6px;
   background: white;
@@ -669,7 +669,7 @@ button svg {
 .budget {
   display: block;
   font-weight: 400;
-  font-size: 9px;
+  font-size: 12px;
   color: #8b8a7c;
   margin: 10px 0 8px;
 }
@@ -682,13 +682,13 @@ button svg {
 .range-label {
   display: flex;
   justify-content: space-between;
-  font-size: 8px;
+  font-size: 12px;
   color: #969382;
   margin-top: -12px;
 }
 .reset-btn {
   margin-top: 23px;
-  font-size: 9px;
+  font-size: 12px;
   text-decoration: underline;
   text-underline-offset: 3px;
   background: none;
@@ -711,7 +711,7 @@ button svg {
   color: #4f5d42;
 }
 .filter-help p {
-  font-size: 9px;
+  font-size: 12px;
   line-height: 1.9;
   margin: 0;
   color: #88917a;
@@ -725,7 +725,7 @@ button svg {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 18px;
-  font-size: 10px;
+  font-size: 12px;
   color: #888b7c;
 }
 .result-bar > span {
@@ -735,12 +735,12 @@ button svg {
   display: flex;
   gap: 5px;
   align-items: center;
-  font-size: 9px;
+  font-size: 12px;
 }
 .result-bar select {
   border: 0;
   background: none;
-  font-size: 9px;
+  font-size: 12px;
   color: #4b4f3f;
   font-weight: 600;
   padding: 4px;
@@ -803,7 +803,7 @@ button svg {
   display: flex;
   align-items: center;
   gap: 4px;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 650;
   padding: 5px 0;
 }
@@ -812,12 +812,12 @@ button svg {
   stroke: #dcb068;
 }
 .rating small {
-  font-size: 8px;
+  font-size: 12px;
   font-weight: 400;
   color: #9b9b8b;
 }
 .tutor-subject {
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 1.3px;
   font-weight: 700;
   color: #a19a88;
@@ -836,7 +836,7 @@ button svg {
 }
 .online-icon {
   font-family: Arial, sans-serif;
-  font-size: 9px;
+  font-size: 12px;
   display: inline-flex;
   width: 13px;
   height: 13px;
@@ -847,14 +847,14 @@ button svg {
   color: #79946b;
 }
 .headline {
-  font-size: 10px;
+  font-size: 12px;
   line-height: 1.7;
   color: #91907f;
   margin-bottom: 13px;
   min-height: 34px;
 }
 .tutor-details {
-  font-size: 8px;
+  font-size: 12px;
   color: #949887;
   display: flex;
   flex-direction: column;
@@ -880,14 +880,14 @@ button svg {
   letter-spacing: -0.8px;
 }
 .card-bottom div > span {
-  font-size: 8px;
+  font-size: 12px;
   color: #999786;
   white-space: nowrap;
 }
 .btn.card-button {
   padding: 8px 9px;
   min-height: 32px;
-  font-size: 8px;
+  font-size: 12px;
   background: #fbf0e8;
   border: 1px solid #f3dfd0;
   color: #b46749;
@@ -907,7 +907,7 @@ button svg {
   flex: 1.2;
 }
 .how-section .eyebrow {
-  font-size: 7px;
+  font-size: 12px;
   letter-spacing: 1.2px;
   margin-bottom: 15px;
 }
@@ -925,7 +925,7 @@ button svg {
 .how-step > span {
   display: block;
   color: #c4b8a2;
-  font-size: 10px;
+  font-size: 12px;
   margin: 4px 0 19px;
 }
 .how-step h3 {
@@ -934,7 +934,7 @@ button svg {
   letter-spacing: -0.2px;
 }
 .how-step p {
-  font-size: 9px;
+  font-size: 12px;
   line-height: 1.9;
   color: #94917f;
   margin: 0;
@@ -960,7 +960,7 @@ footer .brand-symbol {
 footer > span,
 footer > button:last-child {
   color: #96927f;
-  font-size: 9px;
+  font-size: 12px;
 }
 footer > button:last-child {
   background: none;
@@ -1026,7 +1026,7 @@ footer > button:last-child {
   line-height: 1.8;
 }
 .small-text {
-  font-size: 11px;
+  font-size: 12px;
 }
 .session-summary {
   display: flex;
@@ -1048,7 +1048,7 @@ footer > button:last-child {
 }
 .session-summary span {
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   color: #92907f;
   margin-top: 5px;
   text-transform: capitalize;
@@ -1093,7 +1093,7 @@ footer > button:last-child {
   margin: 0 0 10px;
 }
 .status {
-  font-size: 9px;
+  font-size: 12px;
   border-radius: 30px;
   display: inline-flex;
   white-space: nowrap;
@@ -1121,7 +1121,7 @@ footer > button:last-child {
   display: flex;
   align-items: center;
   gap: 7px;
-  font-size: 11px;
+  font-size: 12px;
   color: #96927f;
   flex-wrap: wrap;
 }
@@ -1142,7 +1142,7 @@ footer > button:last-child {
   color: #bb7159;
 }
 .review-label {
-  font-size: 11px;
+  font-size: 12px;
   color: #9b8054;
 }
 .empty {
@@ -1190,7 +1190,7 @@ footer > button:last-child {
   display: flex;
   flex-direction: column;
   gap: 9px;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   color: #6b6d5d;
 }
@@ -1223,7 +1223,7 @@ footer > button:last-child {
   padding: 16px;
 }
 .profile-form legend {
-  font-size: 11px;
+  font-size: 12px;
   color: #71765e;
 }
 .checkbox-list {
@@ -1236,7 +1236,7 @@ footer > button:last-child {
   flex-direction: row;
   align-items: center;
   gap: 6px;
-  font-size: 11px;
+  font-size: 12px;
   min-width: 130px;
 }
 .checkbox-list input {
@@ -1258,7 +1258,7 @@ table {
 th {
   padding: 12px 8px;
   border-bottom: 1px solid var(--line);
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 500;
   color: #90927b;
 }
@@ -1268,7 +1268,7 @@ td {
 }
 td small {
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   color: #979781;
   margin-top: 5px;
 }
@@ -1292,7 +1292,7 @@ td strong {
 .moderation-row p {
   display: block;
   color: #92957c;
-  font-size: 11px;
+  font-size: 12px;
   margin: 5px 0 0;
   line-height: 1.7;
 }
@@ -1361,7 +1361,7 @@ td strong {
   border: 0;
   padding: 0;
   margin: 19px auto;
-  font-size: 11px;
+  font-size: 12px;
   color: #92937b;
   text-decoration: underline;
   text-underline-offset: 4px;
@@ -1374,7 +1374,7 @@ td strong {
 }
 .demo-logins > span {
   display: block;
-  font-size: 8px;
+  font-size: 12px;
   letter-spacing: 1.5px;
   color: #a09a83;
   font-weight: 600;
@@ -1390,10 +1390,10 @@ td strong {
   background: #f7f5ec;
   border-radius: 6px;
   padding: 9px;
-  font-size: 10px;
+  font-size: 12px;
 }
 .demo-logins small {
-  font-size: 9px;
+  font-size: 12px;
   color: #a09b88;
 }
 .detail-head {
@@ -1413,7 +1413,7 @@ td strong {
   margin: 0 0 6px;
 }
 .detail-head .tutor-subject {
-  font-size: 8px;
+  font-size: 12px;
 }
 .bio {
   font-size: 13px;
@@ -1427,7 +1427,7 @@ td strong {
   flex-wrap: wrap;
 }
 .tags span {
-  font-size: 9px;
+  font-size: 12px;
   color: #8a8c75;
   background: #f0f0e6;
   border-radius: 5px;
@@ -1446,7 +1446,7 @@ td strong {
   margin-bottom: 8px;
 }
 .booking-box > p {
-  font-size: 11px;
+  font-size: 12px;
   line-height: 1.8;
   color: #8a8873;
 }
@@ -1457,11 +1457,11 @@ td strong {
   gap: 10px;
 }
 .booking-box label {
-  font-size: 10px;
+  font-size: 12px;
 }
 .booking-box input,
 .booking-box select {
-  font-size: 11px;
+  font-size: 12px;
   padding: 11px 9px;
 }
 .reviews {
@@ -1477,14 +1477,14 @@ td strong {
   border-top: 1px solid var(--line);
 }
 .reviews blockquote > div {
-  font-size: 11px;
+  font-size: 12px;
   color: #d7a054;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 .reviews blockquote span {
-  font-size: 10px;
+  font-size: 12px;
   color: #92917a;
 }
 .reviews blockquote p {
@@ -1497,7 +1497,7 @@ td strong {
   border: 0;
   padding: 0;
   background: none;
-  font-size: 10px;
+  font-size: 12px;
   text-decoration: underline;
   color: #a39b83;
   margin-top: 20px;
@@ -1529,7 +1529,7 @@ td strong {
   border-radius: 10px 10px 2px 10px;
 }
 .message strong {
-  font-size: 10px;
+  font-size: 12px;
   color: #777d65;
 }
 .message p {
@@ -1540,7 +1540,7 @@ td strong {
   white-space: pre-wrap;
 }
 .message time {
-  font-size: 8px;
+  font-size: 12px;
   color: #a19b85;
 }
 .message-form {
@@ -1560,7 +1560,7 @@ td strong {
 .message-form .btn {
   min-height: 40px;
   padding: 10px 13px;
-  font-size: 11px;
+  font-size: 12px;
 }
 .about-copy p {
   font-size: 13px;
@@ -1656,10 +1656,10 @@ td strong {
     flex-wrap: wrap;
   }
   .subject-strip button {
-    font-size: 9px;
+    font-size: 12px;
   }
   .subject-strip > span {
-    font-size: 6px;
+    font-size: 12px;
   }
   .subject-strip button > span {
     font-size: 16px;
@@ -1678,7 +1678,7 @@ td strong {
     font-size: 13px;
   }
   .btn.card-button {
-    font-size: 7px;
+    font-size: 12px;
     padding: 8px 6px;
     gap: 4px;
   }
@@ -1701,7 +1701,7 @@ td strong {
     font-size: 19px;
   }
   .how-step h3 {
-    font-size: 11px;
+    font-size: 12px;
   }
 }
 @media (max-width: 850px) {
@@ -1709,7 +1709,7 @@ td strong {
     gap: 15px;
   }
   .header nav button {
-    font-size: 11px;
+    font-size: 12px;
   }
   .header nav button:last-child {
     display: none;
@@ -1747,35 +1747,35 @@ td strong {
     min-height: 355px;
   }
   .hero .eyebrow {
-    font-size: 7px;
+    font-size: 12px;
     letter-spacing: 1.4px;
   }
   .hero-copy > p {
-    font-size: 11px;
+    font-size: 12px;
   }
   .hero-search {
     gap: 6px;
     padding-left: 10px;
   }
   .hero-search input {
-    font-size: 9px;
+    font-size: 12px;
   }
   .hero-search .btn {
-    font-size: 9px;
+    font-size: 12px;
     padding: 10px;
   }
   .hero-search .btn svg {
     display: none;
   }
   .hero-meta {
-    font-size: 8px;
+    font-size: 12px;
     gap: 15px;
   }
   .mentor-card {
     width: 185px;
   }
   .mentor-tag {
-    font-size: 6px;
+    font-size: 12px;
     padding: 15px 12px;
   }
   .mentor-portrait {
@@ -1793,10 +1793,10 @@ td strong {
     padding: 13px 11px;
   }
   .mentor-info strong {
-    font-size: 9px;
+    font-size: 12px;
   }
   .mentor-info span:not(.mentor-arrow) {
-    font-size: 7px;
+    font-size: 12px;
   }
   .mentor-arrow {
     width: 23px;
@@ -1810,7 +1810,7 @@ td strong {
     left: -10%;
   }
   .math-note span {
-    font-size: 10px;
+    font-size: 12px;
   }
   .math-note strong {
     font-size: 13px;
@@ -1819,10 +1819,10 @@ td strong {
     width: 62px;
   }
   .floating-note strong {
-    font-size: 8px;
+    font-size: 12px;
   }
   .floating-note div > span {
-    font-size: 7px;
+    font-size: 12px;
   }
   .floating-note {
     left: -15%;
@@ -1860,17 +1860,17 @@ td strong {
     top: 28%;
   }
   .art-label {
-    font-size: 6px;
+    font-size: 12px;
     right: -16%;
   }
   .section-heading h2 {
     font-size: 24px;
   }
   .section-heading p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .outline-tag {
-    font-size: 8px;
+    font-size: 12px;
     padding: 8px 10px;
   }
   .tutor-grid {
@@ -1884,7 +1884,7 @@ td strong {
     font-size: 15px;
   }
   .btn.card-button {
-    font-size: 8px;
+    font-size: 12px;
     padding: 8px 10px;
     gap: 8px;
   }
@@ -1908,7 +1908,7 @@ td strong {
     margin-bottom: 12px;
   }
   .how-step p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .how-step h3 {
     font-size: 12px;
@@ -1922,12 +1922,12 @@ td strong {
 }
 @media (max-width: 600px) {
   .demo-bar {
-    font-size: 9px;
+    font-size: 12px;
     padding: 8px 5%;
     min-height: 30px;
   }
   .demo-bar button {
-    font-size: 9px;
+    font-size: 12px;
   }
   .header {
     height: auto;
@@ -1943,10 +1943,10 @@ td strong {
     margin-left: auto;
   }
   .header-right .plain-btn {
-    font-size: 11px;
+    font-size: 12px;
   }
   .header-right .btn {
-    font-size: 10px;
+    font-size: 12px;
     min-height: 34px;
     padding: 8px 10px;
   }
@@ -1962,7 +1962,7 @@ td strong {
   }
   .header nav button {
     height: 45px;
-    font-size: 11px;
+    font-size: 12px;
   }
   .header nav button.active:after {
     bottom: 0;
@@ -1978,7 +1978,7 @@ td strong {
     padding-top: 0;
   }
   .hero .eyebrow {
-    font-size: 7px;
+    font-size: 12px;
     letter-spacing: 1.4px;
     margin-bottom: 19px;
   }
@@ -1998,10 +1998,10 @@ td strong {
     padding-left: 12px;
   }
   .hero-search input {
-    font-size: 10px;
+    font-size: 12px;
   }
   .hero-search .btn {
-    font-size: 10px;
+    font-size: 12px;
     padding: 10px 12px;
   }
   .hero-search .btn svg {
@@ -2009,7 +2009,7 @@ td strong {
     width: 13px;
   }
   .hero-meta {
-    font-size: 8px;
+    font-size: 12px;
     gap: 22px;
     margin-top: 16px;
   }
@@ -2037,11 +2037,11 @@ td strong {
     padding: 13px;
   }
   .mentor-info strong {
-    font-size: 10px;
+    font-size: 12px;
   }
   .mentor-tag {
     padding: 13px 14px;
-    font-size: 6px;
+    font-size: 12px;
   }
   .math-note {
     left: 3%;
@@ -2066,10 +2066,10 @@ td strong {
     padding: 10px 13px;
   }
   .floating-note strong {
-    font-size: 9px;
+    font-size: 12px;
   }
   .floating-note div > span {
-    font-size: 8px;
+    font-size: 12px;
   }
   .note-icon {
     width: 30px;
@@ -2100,7 +2100,7 @@ td strong {
   .art-label {
     right: -1%;
     bottom: 33%;
-    font-size: 6px;
+    font-size: 12px;
   }
   .subject-strip {
     gap: 7px 13px;
@@ -2110,10 +2110,10 @@ td strong {
     width: 100%;
     max-width: none;
     margin-bottom: 7px;
-    font-size: 7px;
+    font-size: 12px;
   }
   .subject-strip button {
-    font-size: 9px;
+    font-size: 12px;
     padding: 5px 0;
   }
   .subject-strip button > span {
@@ -2134,11 +2134,11 @@ td strong {
     letter-spacing: -1px;
   }
   .section-heading .eyebrow {
-    font-size: 7px;
+    font-size: 12px;
     letter-spacing: 1.3px;
   }
   .section-heading p {
-    font-size: 10px;
+    font-size: 12px;
     line-height: 1.8;
   }
   .outline-tag {
@@ -2166,32 +2166,32 @@ td strong {
   .filters label {
     width: calc((100% - 15px) / 2);
     margin: 0;
-    font-size: 9px;
+    font-size: 12px;
   }
   .filters select {
-    font-size: 9px;
+    font-size: 12px;
     padding: 10px;
     margin-top: 8px;
   }
   .budget {
-    font-size: 8px;
+    font-size: 12px;
     margin-top: 8px;
   }
   .filters input[type="range"] {
     margin-top: 9px;
   }
   .reset-btn {
-    font-size: 8px;
+    font-size: 12px;
     margin-top: 0;
     margin-left: auto;
   }
   .result-bar {
-    font-size: 9px;
+    font-size: 12px;
     margin-bottom: 14px;
   }
   .result-bar label,
   .result-bar select {
-    font-size: 8px;
+    font-size: 12px;
   }
   .tutor-grid {
     gap: 12px;
@@ -2209,17 +2209,17 @@ td strong {
     margin-bottom: 14px;
   }
   .rating {
-    font-size: 9px;
+    font-size: 12px;
     gap: 3px;
   }
   .rating svg {
     width: 11px;
   }
   .rating small {
-    font-size: 7px;
+    font-size: 12px;
   }
   .tutor-subject {
-    font-size: 6px;
+    font-size: 12px;
     letter-spacing: 0.8px;
     margin-bottom: 8px;
   }
@@ -2231,16 +2231,16 @@ td strong {
   .online-icon {
     width: 11px;
     height: 11px;
-    font-size: 7px;
+    font-size: 12px;
   }
   .headline {
-    font-size: 9px;
+    font-size: 12px;
     min-height: 31px;
     line-height: 1.6;
     margin-bottom: 11px;
   }
   .tutor-details {
-    font-size: 7px;
+    font-size: 12px;
     gap: 6px;
     margin-bottom: 12px;
   }
@@ -2256,10 +2256,10 @@ td strong {
     font-size: 17px;
   }
   .card-bottom div > span {
-    font-size: 8px;
+    font-size: 12px;
   }
   .btn.card-button {
-    font-size: 8px;
+    font-size: 12px;
     min-height: 29px;
     width: 100%;
     justify-content: space-between;
@@ -2282,7 +2282,7 @@ td strong {
     gap: 0 12px;
   }
   .how-step > span {
-    font-size: 9px;
+    font-size: 12px;
     margin: 1px 0 0;
     line-height: 18px;
   }
@@ -2294,7 +2294,7 @@ td strong {
   .how-step p {
     flex-basis: 100%;
     padding-left: 25px;
-    font-size: 10px;
+    font-size: 12px;
     margin-top: 6px;
     line-height: 1.8;
   }
@@ -2305,7 +2305,7 @@ td strong {
     gap: 15px;
   }
   footer > button:last-child {
-    font-size: 8px;
+    font-size: 12px;
   }
   .workspace {
     padding: 34px 5% 45px;
@@ -2318,7 +2318,7 @@ td strong {
     align-items: center;
   }
   .workspace > .section-heading > .btn {
-    font-size: 9px;
+    font-size: 12px;
     min-height: 36px;
     padding: 9px 10px;
     gap: 6px;
@@ -2337,7 +2337,7 @@ td strong {
     font-size: 21px;
   }
   .session-summary span {
-    font-size: 8px;
+    font-size: 12px;
     line-height: 1.6;
   }
   .session-card {
@@ -2364,11 +2364,11 @@ td strong {
     margin-bottom: 7px;
   }
   .status {
-    font-size: 8px;
+    font-size: 12px;
     padding: 4px 7px;
   }
   .session-date {
-    font-size: 9px;
+    font-size: 12px;
     gap: 5px;
     line-height: 1.7;
   }
@@ -2376,25 +2376,25 @@ td strong {
     width: 12px;
   }
   .session-content > p {
-    font-size: 10px;
+    font-size: 12px;
     margin: 9px 0;
   }
   .session-actions {
     gap: 8px;
   }
   .session-actions .btn.small {
-    font-size: 9px;
+    font-size: 12px;
     padding: 7px 9px;
     min-height: 32px;
   }
   .session-actions .plain-btn {
-    font-size: 9px;
+    font-size: 12px;
   }
   .session-actions .btn svg {
     width: 13px;
   }
   .review-label {
-    font-size: 9px;
+    font-size: 12px;
   }
   .panel {
     padding: 19px;
@@ -2407,7 +2407,7 @@ td strong {
     gap: 17px;
   }
   .profile-form label {
-    font-size: 10px;
+    font-size: 12px;
   }
   .profile-form input,
   .profile-form textarea {
@@ -2420,21 +2420,21 @@ td strong {
     gap: 12px;
   }
   .checkbox-list label {
-    font-size: 10px;
+    font-size: 12px;
     min-width: 120px;
   }
   .moderation-row {
     gap: 12px;
   }
   .moderation-row strong {
-    font-size: 10px;
+    font-size: 12px;
   }
   .moderation-row small,
   .moderation-row p {
-    font-size: 9px;
+    font-size: 12px;
   }
   .moderation-row .btn {
-    font-size: 9px;
+    font-size: 12px;
     padding: 7px 9px;
     min-height: 30px;
   }
@@ -2457,7 +2457,7 @@ td strong {
     height: 28px;
   }
   .dialog .muted {
-    font-size: 11px;
+    font-size: 12px;
   }
   .stack-form {
     gap: 15px;
@@ -2481,13 +2481,13 @@ td strong {
     font-size: 20px;
   }
   .detail-head p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .detail-head .tutor-subject {
-    font-size: 7px;
+    font-size: 12px;
   }
   .bio {
-    font-size: 11px;
+    font-size: 12px;
     margin: 18px 0 14px;
   }
   .booking-box {
@@ -2497,7 +2497,7 @@ td strong {
     font-size: 15px;
   }
   .booking-box > p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .booking-box .form-row {
     flex-direction: column;
@@ -2507,14 +2507,14 @@ td strong {
   }
   .message-form .btn {
     padding: 10px;
-    font-size: 10px;
+    font-size: 12px;
     gap: 5px;
   }
   .message-form input {
-    font-size: 11px;
+    font-size: 12px;
   }
   .message p {
-    font-size: 11px;
+    font-size: 12px;
   }
   .about-copy p {
     font-size: 12px;
